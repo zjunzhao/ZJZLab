@@ -8,7 +8,7 @@ The testing results of WRN-28-10 on CIFAR-10 dataset is as follows (each model h
 
 |model|testing loss|testing acc|
 |:----:|:----:|:----:|
-|WRN-28-10-nodropout|![](http://latex.codecogs.com/gif.latex?\\0.156\pm0.002|![](http://latex.codecogs.com/gif.latex?\\0.960\pm0.001|
+|WRN-28-10-nodropout|![](http://latex.codecogs.com/gif.latex?\\$0.156\pm0.002$|![](http://latex.codecogs.com/gif.latex?\\0.960\pm0.001|
 |WRN-28-10-0.3dropout|![](http://latex.codecogs.com/gif.latex?\\0.162\pm0.003|![](http://latex.codecogs.com/gif.latex?\\0.959\pm0.002|
 
 ## reference
