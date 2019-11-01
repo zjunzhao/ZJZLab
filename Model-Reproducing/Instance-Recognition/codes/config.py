@@ -37,11 +37,11 @@ class Config():
     final_l = 0
     final_r = 0.2
     # training parameters for optimizer
-    init_lr = 0.1
+    init_lr = 0.03#0.1
     boundary = [121, 181]
     lr_decay_rate = 0.2
     momentum = 0.9
-    weight_decay = 1e-4
+    weight_decay = 5e-4#1e-4
     # other training parameters
     nr_epoch = 200
     train_batch_size = 128

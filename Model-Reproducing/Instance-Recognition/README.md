@@ -7,7 +7,7 @@ The testing results of original Instance Recognition Algorithm and modified Inst
 |model|acc_1|acc_2|training time (s)|
 |:----:|:----:|:----:|:----:|
 |original IR|![](http://latex.codecogs.com/gif.latex?\\0.791\pm0.002)|![](http://latex.codecogs.com/gif.latex?\\0.786\pm0.002)|![](http://latex.codecogs.com/gif.latex?\\9407\pm1033)|
-|modified IR|![](http://latex.codecogs.com/gif.latex?\\0.804\pm0.002)|![](http://latex.codecogs.com/gif.latex?\\0.800\pm0.001)|![](http://latex.codecogs.com/gif.latex?\\4816\pm1162)|
+|modified IR|![](http://latex.codecogs.com/gif.latex?\\0.808\pm0.002)|![](http://latex.codecogs.com/gif.latex?\\0.805\pm0.002)|![](http://latex.codecogs.com/gif.latex?\\5062\pm1341)|
 
 ## reference
 \[1\][Unsupervised Feature Learning via Non-parametric Instance Discrimination](https://arxiv.org/abs/1805.01978)
