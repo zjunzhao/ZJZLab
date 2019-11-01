@@ -2,7 +2,7 @@ I reproduce Instance Recognition Algorithm introduced by [\[1\]](https://arxiv.o
 
 
 
-The testing results of original Instance Recognition Algorithm and modified Instance Recognition Algorithm on CIFAR-10 dataset are as follows (each model has been trained five times, each time I random select 5000 examples from training set to do validation and use the solution that performs best on validation set to do testing). The performence of models is measured by KNN accuracy on testing data with visual embeddings in memory bank to be training data and visual embeddings calculated from training data to be training data, corresponding to metrics acc_1 and acc_2. The performence of original Instance Recognition Algorithm reproduce by me is slightly worse than the results in [\[1\]](https://arxiv.org/abs/1805.01978) because [\[1\]](https://arxiv.org/abs/1805.01978) uses testing data to do validation.
+The testing results of original Instance Recognition Algorithm and modified Instance Recognition Algorithm on CIFAR-10 dataset are as follows (each model has been trained five times, each time I select 5000 examples from training set to do validation and use the solution that performs best on validation set to do testing). The performence of models is measured by KNN accuracy on testing data with visual embeddings in memory bank to be training data and visual embeddings calculated from training data to be training data, corresponding to metrics acc_1 and acc_2. The performence of original Instance Recognition Algorithm reproduce by me is slightly worse than the results in [\[1\]](https://arxiv.org/abs/1805.01978) because [\[1\]](https://arxiv.org/abs/1805.01978) uses testing data to do validation.
 
 |model|acc_1|acc_2|training time|
 |:----:|:----:|:----:|:----:|
