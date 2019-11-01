@@ -12,4 +12,4 @@ The testing results of WRN-28-10 on CIFAR-10 dataset are as follows (each model 
 |WRN-28-10-0.3dropout|![](http://latex.codecogs.com/gif.latex?\\0.162\pm0.003)|![](http://latex.codecogs.com/gif.latex?\\0.959\pm0.002)|
 
 ## reference
-[Wide Residual Networks](https://arxiv.org/pdf/1605.07146v1.pdf)
+\[1\][Wide Residual Networks](https://arxiv.org/pdf/1605.07146v1.pdf)
