@@ -11,4 +11,5 @@ The testing results of original Instance Recognition Algorithm and modified Inst
 
 ## reference
 \[1\][Unsupervised Feature Learning via Non-parametric Instance Discrimination](https://arxiv.org/abs/1805.01978)
+
 \[2\][Codes by authors of paper](https://github.com/zhirongw/lemniscate.pytorch)
