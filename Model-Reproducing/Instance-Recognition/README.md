@@ -1,4 +1,4 @@
-I reproduce Instance Recognition Algorithm introduced by [\[1\]](https://arxiv.org/abs/1805.01978) (resnet_cifar.py is clone from \[2\]) and modify it to get a slightly better performence with much shorter training time.
+I reproduce Instance Recognition Algorithm introduced by [\[1\]](https://arxiv.org/abs/1805.01978) (resnet_cifar.py is clone from [\[2\]](https://github.com/zhirongw/lemniscate.pytorch)) and modify it to get a slightly better performence with much shorter training time.
 
 
 
