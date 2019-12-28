@@ -1,0 +1,4013 @@
+_______training_______
+epoch:  1 loss:  3.768 acc:  0.119
+_______validation_______
+epoch:  1 loss:  3.772 acc:  0.127
+_______training_______
+epoch:  2 loss:  3.040 acc:  0.239
+_______validation_______
+epoch:  2 loss:  3.063 acc:  0.255
+_______training_______
+epoch:  3 loss:  2.635 acc:  0.315
+_______validation_______
+epoch:  3 loss:  2.890 acc:  0.285
+_______training_______
+epoch:  4 loss:  2.332 acc:  0.377
+_______validation_______
+epoch:  4 loss:  2.462 acc:  0.356
+_______training_______
+epoch:  5 loss:  2.105 acc:  0.425
+_______validation_______
+epoch:  5 loss:  2.732 acc:  0.343
+_______training_______
+epoch:  6 loss:  1.936 acc:  0.465
+_______validation_______
+epoch:  6 loss:  2.555 acc:  0.370
+_______training_______
+epoch:  7 loss:  1.797 acc:  0.497
+_______validation_______
+epoch:  7 loss:  1.935 acc:  0.471
+_______training_______
+epoch:  8 loss:  1.681 acc:  0.530
+_______validation_______
+epoch:  8 loss:  2.224 acc:  0.432
+_______training_______
+epoch:  9 loss:  1.592 acc:  0.550
+_______validation_______
+epoch:  9 loss:  1.911 acc:  0.487
+_______training_______
+epoch:  10 loss:  1.529 acc:  0.567
+_______validation_______
+epoch:  10 loss:  1.940 acc:  0.490
+_______training_______
+epoch:  11 loss:  1.466 acc:  0.580
+_______validation_______
+epoch:  11 loss:  1.990 acc:  0.468
+_______training_______
+epoch:  12 loss:  1.416 acc:  0.597
+_______validation_______
+epoch:  12 loss:  1.848 acc:  0.501
+_______training_______
+epoch:  13 loss:  1.380 acc:  0.608
+_______validation_______
+epoch:  13 loss:  1.798 acc:  0.510
+_______training_______
+epoch:  14 loss:  1.320 acc:  0.618
+_______validation_______
+epoch:  14 loss:  1.818 acc:  0.509
+_______training_______
+epoch:  15 loss:  1.301 acc:  0.622
+_______validation_______
+epoch:  15 loss:  1.713 acc:  0.528
+_______training_______
+epoch:  16 loss:  1.257 acc:  0.638
+_______validation_______
+epoch:  16 loss:  1.679 acc:  0.543
+_______training_______
+epoch:  17 loss:  1.234 acc:  0.643
+_______validation_______
+epoch:  17 loss:  1.813 acc:  0.520
+_______training_______
+epoch:  18 loss:  1.213 acc:  0.650
+_______validation_______
+epoch:  18 loss:  1.782 acc:  0.523
+_______training_______
+epoch:  19 loss:  1.187 acc:  0.656
+_______validation_______
+epoch:  19 loss:  1.576 acc:  0.567
+_______training_______
+epoch:  20 loss:  1.158 acc:  0.665
+_______validation_______
+epoch:  20 loss:  1.878 acc:  0.517
+_______training_______
+epoch:  21 loss:  1.147 acc:  0.666
+_______validation_______
+epoch:  21 loss:  1.857 acc:  0.498
+_______training_______
+epoch:  22 loss:  1.130 acc:  0.670
+_______validation_______
+epoch:  22 loss:  1.895 acc:  0.516
+_______training_______
+epoch:  23 loss:  1.111 acc:  0.675
+_______validation_______
+epoch:  23 loss:  1.649 acc:  0.554
+_______training_______
+epoch:  24 loss:  1.093 acc:  0.682
+_______validation_______
+epoch:  24 loss:  1.594 acc:  0.578
+_______training_______
+epoch:  25 loss:  1.076 acc:  0.686
+_______validation_______
+epoch:  25 loss:  1.588 acc:  0.554
+_______training_______
+epoch:  26 loss:  1.066 acc:  0.690
+_______validation_______
+epoch:  26 loss:  1.895 acc:  0.524
+_______training_______
+epoch:  27 loss:  1.053 acc:  0.691
+_______validation_______
+epoch:  27 loss:  1.788 acc:  0.532
+_______training_______
+epoch:  28 loss:  1.048 acc:  0.693
+_______validation_______
+epoch:  28 loss:  1.620 acc:  0.573
+_______training_______
+epoch:  29 loss:  1.033 acc:  0.699
+_______validation_______
+epoch:  29 loss:  1.536 acc:  0.584
+_______training_______
+epoch:  30 loss:  1.021 acc:  0.699
+_______validation_______
+epoch:  30 loss:  1.807 acc:  0.534
+_______training_______
+epoch:  31 loss:  1.018 acc:  0.703
+_______validation_______
+epoch:  31 loss:  1.594 acc:  0.576
+_______training_______
+epoch:  32 loss:  1.007 acc:  0.705
+_______validation_______
+epoch:  32 loss:  1.704 acc:  0.567
+_______training_______
+epoch:  33 loss:  1.001 acc:  0.708
+_______validation_______
+epoch:  33 loss:  1.615 acc:  0.567
+_______training_______
+epoch:  34 loss:  0.982 acc:  0.712
+_______validation_______
+epoch:  34 loss:  1.639 acc:  0.574
+_______training_______
+epoch:  35 loss:  0.986 acc:  0.707
+_______validation_______
+epoch:  35 loss:  1.826 acc:  0.538
+_______training_______
+epoch:  36 loss:  0.972 acc:  0.714
+_______validation_______
+epoch:  36 loss:  1.709 acc:  0.558
+_______training_______
+epoch:  37 loss:  0.968 acc:  0.715
+_______validation_______
+epoch:  37 loss:  2.020 acc:  0.511
+_______training_______
+epoch:  38 loss:  0.955 acc:  0.718
+_______validation_______
+epoch:  38 loss:  1.689 acc:  0.556
+_______training_______
+epoch:  39 loss:  0.953 acc:  0.719
+_______validation_______
+epoch:  39 loss:  1.939 acc:  0.524
+_______training_______
+epoch:  40 loss:  0.950 acc:  0.721
+_______validation_______
+epoch:  40 loss:  1.614 acc:  0.574
+_______training_______
+epoch:  41 loss:  0.948 acc:  0.720
+_______validation_______
+epoch:  41 loss:  1.771 acc:  0.554
+_______training_______
+epoch:  42 loss:  0.945 acc:  0.724
+_______validation_______
+epoch:  42 loss:  1.907 acc:  0.529
+_______training_______
+epoch:  43 loss:  0.925 acc:  0.729
+_______validation_______
+epoch:  43 loss:  1.549 acc:  0.588
+_______training_______
+epoch:  44 loss:  0.930 acc:  0.727
+_______validation_______
+epoch:  44 loss:  1.505 acc:  0.601
+_______training_______
+epoch:  45 loss:  0.922 acc:  0.729
+_______validation_______
+epoch:  45 loss:  1.624 acc:  0.571
+_______training_______
+epoch:  46 loss:  0.919 acc:  0.728
+_______validation_______
+epoch:  46 loss:  1.496 acc:  0.597
+_______training_______
+epoch:  47 loss:  0.921 acc:  0.727
+_______validation_______
+epoch:  47 loss:  1.604 acc:  0.588
+_______training_______
+epoch:  48 loss:  0.904 acc:  0.732
+_______validation_______
+epoch:  48 loss:  1.599 acc:  0.584
+_______training_______
+epoch:  49 loss:  0.910 acc:  0.731
+_______validation_______
+epoch:  49 loss:  1.529 acc:  0.587
+_______training_______
+epoch:  50 loss:  0.892 acc:  0.738
+_______validation_______
+epoch:  50 loss:  1.773 acc:  0.554
+_______training_______
+epoch:  51 loss:  0.897 acc:  0.734
+_______validation_______
+epoch:  51 loss:  1.780 acc:  0.549
+_______training_______
+epoch:  52 loss:  0.901 acc:  0.734
+_______validation_______
+epoch:  52 loss:  1.651 acc:  0.566
+_______training_______
+epoch:  53 loss:  0.891 acc:  0.737
+_______validation_______
+epoch:  53 loss:  1.552 acc:  0.578
+_______training_______
+epoch:  54 loss:  0.896 acc:  0.733
+_______validation_______
+epoch:  54 loss:  1.669 acc:  0.581
+_______training_______
+epoch:  55 loss:  0.883 acc:  0.739
+_______validation_______
+epoch:  55 loss:  1.754 acc:  0.558
+_______training_______
+epoch:  56 loss:  0.880 acc:  0.740
+_______validation_______
+epoch:  56 loss:  1.573 acc:  0.585
+_______training_______
+epoch:  57 loss:  0.877 acc:  0.740
+_______validation_______
+epoch:  57 loss:  1.793 acc:  0.553
+_______training_______
+epoch:  58 loss:  0.885 acc:  0.738
+_______validation_______
+epoch:  58 loss:  1.589 acc:  0.603
+_______training_______
+epoch:  59 loss:  0.873 acc:  0.740
+_______validation_______
+epoch:  59 loss:  1.713 acc:  0.557
+_______training_______
+epoch:  60 loss:  0.855 acc:  0.745
+_______validation_______
+epoch:  60 loss:  1.658 acc:  0.576
+_______training_______
+epoch:  61 loss:  0.405 acc:  0.881
+_______validation_______
+epoch:  61 loss:  0.812 acc:  0.770
+_______training_______
+epoch:  62 loss:  0.261 acc:  0.924
+_______validation_______
+epoch:  62 loss:  0.817 acc:  0.766
+_______training_______
+epoch:  63 loss:  0.200 acc:  0.942
+_______validation_______
+epoch:  63 loss:  0.860 acc:  0.761
+_______training_______
+epoch:  64 loss:  0.164 acc:  0.955
+_______validation_______
+epoch:  64 loss:  0.864 acc:  0.770
+_______training_______
+epoch:  65 loss:  0.142 acc:  0.961
+_______validation_______
+epoch:  65 loss:  0.918 acc:  0.762
+_______training_______
+epoch:  66 loss:  0.124 acc:  0.966
+_______validation_______
+epoch:  66 loss:  0.959 acc:  0.756
+_______training_______
+epoch:  67 loss:  0.109 acc:  0.972
+_______validation_______
+epoch:  67 loss:  0.898 acc:  0.769
+_______training_______
+epoch:  68 loss:  0.102 acc:  0.974
+_______validation_______
+epoch:  68 loss:  0.993 acc:  0.750
+_______training_______
+epoch:  69 loss:  0.101 acc:  0.974
+_______validation_______
+epoch:  69 loss:  0.986 acc:  0.752
+_______training_______
+epoch:  70 loss:  0.104 acc:  0.973
+_______validation_______
+epoch:  70 loss:  1.016 acc:  0.749
+_______training_______
+epoch:  71 loss:  0.108 acc:  0.972
+_______validation_______
+epoch:  71 loss:  1.043 acc:  0.739
+_______training_______
+epoch:  72 loss:  0.109 acc:  0.971
+_______validation_______
+epoch:  72 loss:  1.030 acc:  0.743
+_______training_______
+epoch:  73 loss:  0.116 acc:  0.970
+_______validation_______
+epoch:  73 loss:  1.071 acc:  0.727
+_______training_______
+epoch:  74 loss:  0.123 acc:  0.967
+_______validation_______
+epoch:  74 loss:  1.093 acc:  0.736
+_______training_______
+epoch:  75 loss:  0.129 acc:  0.965
+_______validation_______
+epoch:  75 loss:  1.155 acc:  0.723
+_______training_______
+epoch:  76 loss:  0.135 acc:  0.963
+_______validation_______
+epoch:  76 loss:  1.114 acc:  0.728
+_______training_______
+epoch:  77 loss:  0.150 acc:  0.957
+_______validation_______
+epoch:  77 loss:  1.146 acc:  0.719
+_______training_______
+epoch:  78 loss:  0.152 acc:  0.958
+_______validation_______
+epoch:  78 loss:  1.186 acc:  0.710
+_______training_______
+epoch:  79 loss:  0.147 acc:  0.960
+_______validation_______
+epoch:  79 loss:  1.072 acc:  0.726
+_______training_______
+epoch:  80 loss:  0.158 acc:  0.956
+_______validation_______
+epoch:  80 loss:  1.174 acc:  0.713
+_______training_______
+epoch:  81 loss:  0.155 acc:  0.958
+_______validation_______
+epoch:  81 loss:  1.146 acc:  0.717
+_______training_______
+epoch:  82 loss:  0.158 acc:  0.956
+_______validation_______
+epoch:  82 loss:  1.124 acc:  0.722
+_______training_______
+epoch:  83 loss:  0.155 acc:  0.957
+_______validation_______
+epoch:  83 loss:  1.157 acc:  0.714
+_______training_______
+epoch:  84 loss:  0.152 acc:  0.958
+_______validation_______
+epoch:  84 loss:  1.259 acc:  0.705
+_______training_______
+epoch:  85 loss:  0.171 acc:  0.951
+_______validation_______
+epoch:  85 loss:  1.301 acc:  0.693
+_______training_______
+epoch:  86 loss:  0.157 acc:  0.956
+_______validation_______
+epoch:  86 loss:  1.237 acc:  0.698
+_______training_______
+epoch:  87 loss:  0.152 acc:  0.959
+_______validation_______
+epoch:  87 loss:  1.332 acc:  0.692
+_______training_______
+epoch:  88 loss:  0.153 acc:  0.957
+_______validation_______
+epoch:  88 loss:  1.256 acc:  0.703
+_______training_______
+epoch:  89 loss:  0.156 acc:  0.957
+_______validation_______
+epoch:  89 loss:  1.212 acc:  0.705
+_______training_______
+epoch:  90 loss:  0.146 acc:  0.959
+_______validation_______
+epoch:  90 loss:  1.176 acc:  0.716
+_______training_______
+epoch:  91 loss:  0.143 acc:  0.960
+_______validation_______
+epoch:  91 loss:  1.258 acc:  0.698
+_______training_______
+epoch:  92 loss:  0.157 acc:  0.956
+_______validation_______
+epoch:  92 loss:  1.262 acc:  0.695
+_______training_______
+epoch:  93 loss:  0.143 acc:  0.961
+_______validation_______
+epoch:  93 loss:  1.373 acc:  0.677
+_______training_______
+epoch:  94 loss:  0.139 acc:  0.962
+_______validation_______
+epoch:  94 loss:  1.329 acc:  0.691
+_______training_______
+epoch:  95 loss:  0.144 acc:  0.960
+_______validation_______
+epoch:  95 loss:  1.162 acc:  0.711
+_______training_______
+epoch:  96 loss:  0.148 acc:  0.959
+_______validation_______
+epoch:  96 loss:  1.228 acc:  0.702
+_______training_______
+epoch:  97 loss:  0.151 acc:  0.957
+_______validation_______
+epoch:  97 loss:  1.237 acc:  0.698
+_______training_______
+epoch:  98 loss:  0.145 acc:  0.960
+_______validation_______
+epoch:  98 loss:  1.330 acc:  0.691
+_______training_______
+epoch:  99 loss:  0.132 acc:  0.963
+_______validation_______
+epoch:  99 loss:  1.369 acc:  0.676
+_______training_______
+epoch:  100 loss:  0.143 acc:  0.960
+_______validation_______
+epoch:  100 loss:  1.303 acc:  0.691
+_______training_______
+epoch:  101 loss:  0.141 acc:  0.963
+_______validation_______
+epoch:  101 loss:  1.268 acc:  0.696
+_______training_______
+epoch:  102 loss:  0.141 acc:  0.961
+_______validation_______
+epoch:  102 loss:  1.286 acc:  0.699
+_______training_______
+epoch:  103 loss:  0.125 acc:  0.967
+_______validation_______
+epoch:  103 loss:  1.179 acc:  0.719
+_______training_______
+epoch:  104 loss:  0.125 acc:  0.967
+_______validation_______
+epoch:  104 loss:  1.258 acc:  0.693
+_______training_______
+epoch:  105 loss:  0.147 acc:  0.960
+_______validation_______
+epoch:  105 loss:  1.229 acc:  0.703
+_______training_______
+epoch:  106 loss:  0.139 acc:  0.962
+_______validation_______
+epoch:  106 loss:  1.469 acc:  0.681
+_______training_______
+epoch:  107 loss:  0.134 acc:  0.963
+_______validation_______
+epoch:  107 loss:  1.341 acc:  0.683
+_______training_______
+epoch:  108 loss:  0.140 acc:  0.962
+_______validation_______
+epoch:  108 loss:  1.351 acc:  0.692
+_______training_______
+epoch:  109 loss:  0.136 acc:  0.963
+_______validation_______
+epoch:  109 loss:  1.316 acc:  0.687
+_______training_______
+epoch:  110 loss:  0.142 acc:  0.962
+_______validation_______
+epoch:  110 loss:  1.290 acc:  0.696
+_______training_______
+epoch:  111 loss:  0.136 acc:  0.962
+_______validation_______
+epoch:  111 loss:  1.294 acc:  0.696
+_______training_______
+epoch:  112 loss:  0.130 acc:  0.966
+_______validation_______
+epoch:  112 loss:  1.207 acc:  0.710
+_______training_______
+epoch:  113 loss:  0.127 acc:  0.965
+_______validation_______
+epoch:  113 loss:  1.232 acc:  0.707
+_______training_______
+epoch:  114 loss:  0.134 acc:  0.964
+_______validation_______
+epoch:  114 loss:  1.320 acc:  0.692
+_______training_______
+epoch:  115 loss:  0.142 acc:  0.961
+_______validation_______
+epoch:  115 loss:  1.286 acc:  0.692
+_______training_______
+epoch:  116 loss:  0.146 acc:  0.959
+_______validation_______
+epoch:  116 loss:  1.245 acc:  0.706
+_______training_______
+epoch:  117 loss:  0.124 acc:  0.966
+_______validation_______
+epoch:  117 loss:  1.298 acc:  0.694
+_______training_______
+epoch:  118 loss:  0.123 acc:  0.967
+_______validation_______
+epoch:  118 loss:  1.349 acc:  0.685
+_______training_______
+epoch:  119 loss:  0.135 acc:  0.962
+_______validation_______
+epoch:  119 loss:  1.284 acc:  0.701
+_______training_______
+epoch:  120 loss:  0.131 acc:  0.965
+_______validation_______
+epoch:  120 loss:  1.303 acc:  0.700
+_______training_______
+epoch:  121 loss:  0.036 acc:  0.993
+_______validation_______
+epoch:  121 loss:  0.886 acc:  0.782
+_______training_______
+epoch:  122 loss:  0.015 acc:  0.998
+_______validation_______
+epoch:  122 loss:  0.867 acc:  0.787
+_______training_______
+epoch:  123 loss:  0.011 acc:  0.999
+_______validation_______
+epoch:  123 loss:  0.862 acc:  0.786
+_______training_______
+epoch:  124 loss:  0.010 acc:  0.999
+_______validation_______
+epoch:  124 loss:  0.857 acc:  0.787
+_______training_______
+epoch:  125 loss:  0.009 acc:  0.999
+_______validation_______
+epoch:  125 loss:  0.861 acc:  0.788
+_______training_______
+epoch:  126 loss:  0.007 acc:  0.999
+_______validation_______
+epoch:  126 loss:  0.847 acc:  0.789
+_______training_______
+epoch:  127 loss:  0.007 acc:  0.999
+_______validation_______
+epoch:  127 loss:  0.845 acc:  0.790
+_______training_______
+epoch:  128 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  128 loss:  0.839 acc:  0.792
+_______training_______
+epoch:  129 loss:  0.007 acc:  0.999
+_______validation_______
+epoch:  129 loss:  0.841 acc:  0.793
+_______training_______
+epoch:  130 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  130 loss:  0.834 acc:  0.792
+_______training_______
+epoch:  131 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  131 loss:  0.831 acc:  0.791
+_______training_______
+epoch:  132 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  132 loss:  0.827 acc:  0.794
+_______training_______
+epoch:  133 loss:  0.006 acc:  0.999
+_______validation_______
+epoch:  133 loss:  0.824 acc:  0.795
+_______training_______
+epoch:  134 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  134 loss:  0.823 acc:  0.790
+_______training_______
+epoch:  135 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  135 loss:  0.820 acc:  0.793
+_______training_______
+epoch:  136 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  136 loss:  0.824 acc:  0.794
+_______training_______
+epoch:  137 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  137 loss:  0.814 acc:  0.798
+_______training_______
+epoch:  138 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  138 loss:  0.815 acc:  0.796
+_______training_______
+epoch:  139 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  139 loss:  0.816 acc:  0.788
+_______training_______
+epoch:  140 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  140 loss:  0.813 acc:  0.791
+_______training_______
+epoch:  141 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  141 loss:  0.817 acc:  0.792
+_______training_______
+epoch:  142 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  142 loss:  0.812 acc:  0.789
+_______training_______
+epoch:  143 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  143 loss:  0.814 acc:  0.792
+_______training_______
+epoch:  144 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  144 loss:  0.816 acc:  0.791
+_______training_______
+epoch:  145 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  145 loss:  0.814 acc:  0.790
+_______training_______
+epoch:  146 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  146 loss:  0.811 acc:  0.793
+_______training_______
+epoch:  147 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  147 loss:  0.812 acc:  0.794
+_______training_______
+epoch:  148 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  148 loss:  0.816 acc:  0.792
+_______training_______
+epoch:  149 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  149 loss:  0.813 acc:  0.791
+_______training_______
+epoch:  150 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  150 loss:  0.813 acc:  0.792
+_______training_______
+epoch:  151 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  151 loss:  0.810 acc:  0.792
+_______training_______
+epoch:  152 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  152 loss:  0.814 acc:  0.795
+_______training_______
+epoch:  153 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  153 loss:  0.809 acc:  0.793
+_______training_______
+epoch:  154 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  154 loss:  0.814 acc:  0.792
+_______training_______
+epoch:  155 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  155 loss:  0.811 acc:  0.790
+_______training_______
+epoch:  156 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  156 loss:  0.808 acc:  0.793
+_______training_______
+epoch:  157 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  157 loss:  0.809 acc:  0.796
+_______training_______
+epoch:  158 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  158 loss:  0.813 acc:  0.795
+_______training_______
+epoch:  159 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  159 loss:  0.811 acc:  0.796
+_______training_______
+epoch:  160 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  160 loss:  0.810 acc:  0.794
+_______training_______
+epoch:  161 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  161 loss:  0.806 acc:  0.791
+_______training_______
+epoch:  162 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  162 loss:  0.808 acc:  0.793
+_______training_______
+epoch:  163 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  163 loss:  0.810 acc:  0.792
+_______training_______
+epoch:  164 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  164 loss:  0.809 acc:  0.793
+_______training_______
+epoch:  165 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  165 loss:  0.815 acc:  0.793
+_______training_______
+epoch:  166 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  166 loss:  0.817 acc:  0.790
+_______training_______
+epoch:  167 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  167 loss:  0.812 acc:  0.792
+_______training_______
+epoch:  168 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  168 loss:  0.816 acc:  0.791
+_______training_______
+epoch:  169 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  169 loss:  0.812 acc:  0.793
+_______training_______
+epoch:  170 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  170 loss:  0.816 acc:  0.792
+_______training_______
+epoch:  171 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  171 loss:  0.817 acc:  0.792
+_______training_______
+epoch:  172 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  172 loss:  0.816 acc:  0.794
+_______training_______
+epoch:  173 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  173 loss:  0.818 acc:  0.789
+_______training_______
+epoch:  174 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  174 loss:  0.822 acc:  0.791
+_______training_______
+epoch:  175 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  175 loss:  0.816 acc:  0.793
+_______training_______
+epoch:  176 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  176 loss:  0.820 acc:  0.792
+_______training_______
+epoch:  177 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  177 loss:  0.820 acc:  0.792
+_______training_______
+epoch:  178 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  178 loss:  0.815 acc:  0.791
+_______training_______
+epoch:  179 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  179 loss:  0.819 acc:  0.790
+_______training_______
+epoch:  180 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  180 loss:  0.826 acc:  0.792
+_______training_______
+epoch:  181 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  181 loss:  0.820 acc:  0.792
+_______training_______
+epoch:  182 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  182 loss:  0.825 acc:  0.794
+_______training_______
+epoch:  183 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  183 loss:  0.820 acc:  0.791
+_______training_______
+epoch:  184 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  184 loss:  0.819 acc:  0.794
+_______training_______
+epoch:  185 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  185 loss:  0.822 acc:  0.794
+_______training_______
+epoch:  186 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  186 loss:  0.822 acc:  0.792
+_______training_______
+epoch:  187 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  187 loss:  0.824 acc:  0.792
+_______training_______
+epoch:  188 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  188 loss:  0.823 acc:  0.793
+_______training_______
+epoch:  189 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  189 loss:  0.823 acc:  0.792
+_______training_______
+epoch:  190 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  190 loss:  0.827 acc:  0.795
+_______training_______
+epoch:  191 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  191 loss:  0.824 acc:  0.793
+_______training_______
+epoch:  192 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  192 loss:  0.818 acc:  0.794
+_______training_______
+epoch:  193 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  193 loss:  0.828 acc:  0.793
+_______training_______
+epoch:  194 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  194 loss:  0.819 acc:  0.793
+_______training_______
+epoch:  195 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  195 loss:  0.826 acc:  0.792
+_______training_______
+epoch:  196 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  196 loss:  0.827 acc:  0.793
+_______training_______
+epoch:  197 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  197 loss:  0.823 acc:  0.792
+_______training_______
+epoch:  198 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  198 loss:  0.827 acc:  0.793
+_______training_______
+epoch:  199 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  199 loss:  0.824 acc:  0.792
+_______training_______
+epoch:  200 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  200 loss:  0.827 acc:  0.793
+Training finish. The optimal validation accuracy is:  0.798
+test_loss:  0.819 test_acc:  0.798
+_______training_______
+epoch:  1 loss:  3.758 acc:  0.122
+_______validation_______
+epoch:  1 loss:  3.830 acc:  0.123
+_______training_______
+epoch:  2 loss:  3.005 acc:  0.249
+_______validation_______
+epoch:  2 loss:  3.052 acc:  0.229
+_______training_______
+epoch:  3 loss:  2.605 acc:  0.319
+_______validation_______
+epoch:  3 loss:  2.700 acc:  0.292
+_______training_______
+epoch:  4 loss:  2.308 acc:  0.380
+_______validation_______
+epoch:  4 loss:  2.768 acc:  0.293
+_______training_______
+epoch:  5 loss:  2.085 acc:  0.430
+_______validation_______
+epoch:  5 loss:  2.340 acc:  0.372
+_______training_______
+epoch:  6 loss:  1.912 acc:  0.473
+_______validation_______
+epoch:  6 loss:  2.197 acc:  0.402
+_______training_______
+epoch:  7 loss:  1.788 acc:  0.502
+_______validation_______
+epoch:  7 loss:  1.952 acc:  0.463
+_______training_______
+epoch:  8 loss:  1.674 acc:  0.528
+_______validation_______
+epoch:  8 loss:  2.047 acc:  0.453
+_______training_______
+epoch:  9 loss:  1.591 acc:  0.549
+_______validation_______
+epoch:  9 loss:  2.039 acc:  0.458
+_______training_______
+epoch:  10 loss:  1.524 acc:  0.568
+_______validation_______
+epoch:  10 loss:  1.987 acc:  0.481
+_______training_______
+epoch:  11 loss:  1.461 acc:  0.584
+_______validation_______
+epoch:  11 loss:  2.088 acc:  0.444
+_______training_______
+epoch:  12 loss:  1.416 acc:  0.594
+_______validation_______
+epoch:  12 loss:  1.654 acc:  0.536
+_______training_______
+epoch:  13 loss:  1.368 acc:  0.609
+_______validation_______
+epoch:  13 loss:  1.729 acc:  0.529
+_______training_______
+epoch:  14 loss:  1.319 acc:  0.621
+_______validation_______
+epoch:  14 loss:  1.835 acc:  0.501
+_______training_______
+epoch:  15 loss:  1.287 acc:  0.632
+_______validation_______
+epoch:  15 loss:  2.021 acc:  0.483
+_______training_______
+epoch:  16 loss:  1.252 acc:  0.639
+_______validation_______
+epoch:  16 loss:  1.978 acc:  0.490
+_______training_______
+epoch:  17 loss:  1.233 acc:  0.644
+_______validation_______
+epoch:  17 loss:  1.915 acc:  0.506
+_______training_______
+epoch:  18 loss:  1.201 acc:  0.654
+_______validation_______
+epoch:  18 loss:  1.830 acc:  0.521
+_______training_______
+epoch:  19 loss:  1.184 acc:  0.657
+_______validation_______
+epoch:  19 loss:  1.570 acc:  0.565
+_______training_______
+epoch:  20 loss:  1.148 acc:  0.665
+_______validation_______
+epoch:  20 loss:  1.945 acc:  0.493
+_______training_______
+epoch:  21 loss:  1.136 acc:  0.668
+_______validation_______
+epoch:  21 loss:  2.044 acc:  0.486
+_______training_______
+epoch:  22 loss:  1.123 acc:  0.674
+_______validation_______
+epoch:  22 loss:  1.668 acc:  0.553
+_______training_______
+epoch:  23 loss:  1.102 acc:  0.678
+_______validation_______
+epoch:  23 loss:  1.827 acc:  0.521
+_______training_______
+epoch:  24 loss:  1.086 acc:  0.682
+_______validation_______
+epoch:  24 loss:  1.898 acc:  0.514
+_______training_______
+epoch:  25 loss:  1.067 acc:  0.687
+_______validation_______
+epoch:  25 loss:  1.788 acc:  0.529
+_______training_______
+epoch:  26 loss:  1.066 acc:  0.689
+_______validation_______
+epoch:  26 loss:  1.765 acc:  0.533
+_______training_______
+epoch:  27 loss:  1.057 acc:  0.692
+_______validation_______
+epoch:  27 loss:  1.766 acc:  0.534
+_______training_______
+epoch:  28 loss:  1.032 acc:  0.699
+_______validation_______
+epoch:  28 loss:  1.672 acc:  0.546
+_______training_______
+epoch:  29 loss:  1.018 acc:  0.702
+_______validation_______
+epoch:  29 loss:  2.001 acc:  0.499
+_______training_______
+epoch:  30 loss:  1.019 acc:  0.701
+_______validation_______
+epoch:  30 loss:  1.532 acc:  0.582
+_______training_______
+epoch:  31 loss:  1.007 acc:  0.704
+_______validation_______
+epoch:  31 loss:  1.777 acc:  0.534
+_______training_______
+epoch:  32 loss:  0.992 acc:  0.709
+_______validation_______
+epoch:  32 loss:  1.493 acc:  0.587
+_______training_______
+epoch:  33 loss:  0.991 acc:  0.709
+_______validation_______
+epoch:  33 loss:  1.835 acc:  0.537
+_______training_______
+epoch:  34 loss:  0.979 acc:  0.711
+_______validation_______
+epoch:  34 loss:  1.908 acc:  0.509
+_______training_______
+epoch:  35 loss:  0.968 acc:  0.715
+_______validation_______
+epoch:  35 loss:  1.936 acc:  0.515
+_______training_______
+epoch:  36 loss:  0.961 acc:  0.717
+_______validation_______
+epoch:  36 loss:  1.808 acc:  0.543
+_______training_______
+epoch:  37 loss:  0.957 acc:  0.721
+_______validation_______
+epoch:  37 loss:  1.604 acc:  0.581
+_______training_______
+epoch:  38 loss:  0.959 acc:  0.717
+_______validation_______
+epoch:  38 loss:  1.772 acc:  0.535
+_______training_______
+epoch:  39 loss:  0.927 acc:  0.728
+_______validation_______
+epoch:  39 loss:  1.547 acc:  0.592
+_______training_______
+epoch:  40 loss:  0.945 acc:  0.723
+_______validation_______
+epoch:  40 loss:  1.620 acc:  0.565
+_______training_______
+epoch:  41 loss:  0.940 acc:  0.725
+_______validation_______
+epoch:  41 loss:  1.797 acc:  0.552
+_______training_______
+epoch:  42 loss:  0.931 acc:  0.725
+_______validation_______
+epoch:  42 loss:  1.500 acc:  0.599
+_______training_______
+epoch:  43 loss:  0.938 acc:  0.723
+_______validation_______
+epoch:  43 loss:  1.946 acc:  0.531
+_______training_______
+epoch:  44 loss:  0.915 acc:  0.728
+_______validation_______
+epoch:  44 loss:  1.478 acc:  0.608
+_______training_______
+epoch:  45 loss:  0.917 acc:  0.730
+_______validation_______
+epoch:  45 loss:  1.578 acc:  0.583
+_______training_______
+epoch:  46 loss:  0.899 acc:  0.735
+_______validation_______
+epoch:  46 loss:  1.631 acc:  0.572
+_______training_______
+epoch:  47 loss:  0.895 acc:  0.735
+_______validation_______
+epoch:  47 loss:  1.665 acc:  0.553
+_______training_______
+epoch:  48 loss:  0.905 acc:  0.735
+_______validation_______
+epoch:  48 loss:  1.524 acc:  0.584
+_______training_______
+epoch:  49 loss:  0.910 acc:  0.732
+_______validation_______
+epoch:  49 loss:  1.537 acc:  0.585
+_______training_______
+epoch:  50 loss:  0.902 acc:  0.734
+_______validation_______
+epoch:  50 loss:  1.825 acc:  0.537
+_______training_______
+epoch:  51 loss:  0.901 acc:  0.733
+_______validation_______
+epoch:  51 loss:  1.688 acc:  0.569
+_______training_______
+epoch:  52 loss:  0.891 acc:  0.737
+_______validation_______
+epoch:  52 loss:  1.582 acc:  0.578
+_______training_______
+epoch:  53 loss:  0.883 acc:  0.739
+_______validation_______
+epoch:  53 loss:  1.538 acc:  0.594
+_______training_______
+epoch:  54 loss:  0.868 acc:  0.743
+_______validation_______
+epoch:  54 loss:  1.578 acc:  0.586
+_______training_______
+epoch:  55 loss:  0.881 acc:  0.737
+_______validation_______
+epoch:  55 loss:  1.565 acc:  0.584
+_______training_______
+epoch:  56 loss:  0.877 acc:  0.740
+_______validation_______
+epoch:  56 loss:  1.563 acc:  0.598
+_______training_______
+epoch:  57 loss:  0.865 acc:  0.745
+_______validation_______
+epoch:  57 loss:  1.510 acc:  0.587
+_______training_______
+epoch:  58 loss:  0.873 acc:  0.741
+_______validation_______
+epoch:  58 loss:  1.894 acc:  0.532
+_______training_______
+epoch:  59 loss:  0.857 acc:  0.746
+_______validation_______
+epoch:  59 loss:  1.574 acc:  0.585
+_______training_______
+epoch:  60 loss:  0.873 acc:  0.741
+_______validation_______
+epoch:  60 loss:  1.791 acc:  0.562
+_______training_______
+epoch:  61 loss:  0.403 acc:  0.880
+_______validation_______
+epoch:  61 loss:  0.858 acc:  0.753
+_______training_______
+epoch:  62 loss:  0.257 acc:  0.925
+_______validation_______
+epoch:  62 loss:  0.855 acc:  0.758
+_______training_______
+epoch:  63 loss:  0.201 acc:  0.942
+_______validation_______
+epoch:  63 loss:  0.902 acc:  0.752
+_______training_______
+epoch:  64 loss:  0.162 acc:  0.955
+_______validation_______
+epoch:  64 loss:  0.902 acc:  0.758
+_______training_______
+epoch:  65 loss:  0.138 acc:  0.962
+_______validation_______
+epoch:  65 loss:  0.927 acc:  0.757
+_______training_______
+epoch:  66 loss:  0.120 acc:  0.968
+_______validation_______
+epoch:  66 loss:  0.967 acc:  0.751
+_______training_______
+epoch:  67 loss:  0.109 acc:  0.971
+_______validation_______
+epoch:  67 loss:  0.977 acc:  0.755
+_______training_______
+epoch:  68 loss:  0.102 acc:  0.975
+_______validation_______
+epoch:  68 loss:  0.975 acc:  0.751
+_______training_______
+epoch:  69 loss:  0.097 acc:  0.975
+_______validation_______
+epoch:  69 loss:  1.005 acc:  0.741
+_______training_______
+epoch:  70 loss:  0.096 acc:  0.976
+_______validation_______
+epoch:  70 loss:  1.019 acc:  0.750
+_______training_______
+epoch:  71 loss:  0.102 acc:  0.973
+_______validation_______
+epoch:  71 loss:  1.040 acc:  0.733
+_______training_______
+epoch:  72 loss:  0.105 acc:  0.973
+_______validation_______
+epoch:  72 loss:  1.053 acc:  0.741
+_______training_______
+epoch:  73 loss:  0.109 acc:  0.972
+_______validation_______
+epoch:  73 loss:  1.083 acc:  0.728
+_______training_______
+epoch:  74 loss:  0.114 acc:  0.970
+_______validation_______
+epoch:  74 loss:  1.082 acc:  0.730
+_______training_______
+epoch:  75 loss:  0.126 acc:  0.966
+_______validation_______
+epoch:  75 loss:  1.139 acc:  0.718
+_______training_______
+epoch:  76 loss:  0.130 acc:  0.966
+_______validation_______
+epoch:  76 loss:  1.222 acc:  0.694
+_______training_______
+epoch:  77 loss:  0.141 acc:  0.961
+_______validation_______
+epoch:  77 loss:  1.150 acc:  0.712
+_______training_______
+epoch:  78 loss:  0.156 acc:  0.957
+_______validation_______
+epoch:  78 loss:  1.209 acc:  0.701
+_______training_______
+epoch:  79 loss:  0.150 acc:  0.959
+_______validation_______
+epoch:  79 loss:  1.219 acc:  0.705
+_______training_______
+epoch:  80 loss:  0.152 acc:  0.958
+_______validation_______
+epoch:  80 loss:  1.246 acc:  0.695
+_______training_______
+epoch:  81 loss:  0.158 acc:  0.955
+_______validation_______
+epoch:  81 loss:  1.291 acc:  0.685
+_______training_______
+epoch:  82 loss:  0.168 acc:  0.952
+_______validation_______
+epoch:  82 loss:  1.143 acc:  0.709
+_______training_______
+epoch:  83 loss:  0.162 acc:  0.955
+_______validation_______
+epoch:  83 loss:  1.259 acc:  0.694
+_______training_______
+epoch:  84 loss:  0.163 acc:  0.954
+_______validation_______
+epoch:  84 loss:  1.285 acc:  0.692
+_______training_______
+epoch:  85 loss:  0.156 acc:  0.956
+_______validation_______
+epoch:  85 loss:  1.319 acc:  0.693
+_______training_______
+epoch:  86 loss:  0.136 acc:  0.963
+_______validation_______
+epoch:  86 loss:  1.286 acc:  0.702
+_______training_______
+epoch:  87 loss:  0.150 acc:  0.958
+_______validation_______
+epoch:  87 loss:  1.301 acc:  0.690
+_______training_______
+epoch:  88 loss:  0.169 acc:  0.952
+_______validation_______
+epoch:  88 loss:  1.259 acc:  0.689
+_______training_______
+epoch:  89 loss:  0.152 acc:  0.958
+_______validation_______
+epoch:  89 loss:  1.234 acc:  0.713
+_______training_______
+epoch:  90 loss:  0.150 acc:  0.958
+_______validation_______
+epoch:  90 loss:  1.261 acc:  0.707
+_______training_______
+epoch:  91 loss:  0.147 acc:  0.959
+_______validation_______
+epoch:  91 loss:  1.326 acc:  0.691
+_______training_______
+epoch:  92 loss:  0.146 acc:  0.958
+_______validation_______
+epoch:  92 loss:  1.248 acc:  0.696
+_______training_______
+epoch:  93 loss:  0.139 acc:  0.963
+_______validation_______
+epoch:  93 loss:  1.253 acc:  0.698
+_______training_______
+epoch:  94 loss:  0.138 acc:  0.962
+_______validation_______
+epoch:  94 loss:  1.397 acc:  0.675
+_______training_______
+epoch:  95 loss:  0.149 acc:  0.960
+_______validation_______
+epoch:  95 loss:  1.273 acc:  0.703
+_______training_______
+epoch:  96 loss:  0.155 acc:  0.957
+_______validation_______
+epoch:  96 loss:  1.297 acc:  0.693
+_______training_______
+epoch:  97 loss:  0.145 acc:  0.960
+_______validation_______
+epoch:  97 loss:  1.236 acc:  0.704
+_______training_______
+epoch:  98 loss:  0.144 acc:  0.960
+_______validation_______
+epoch:  98 loss:  1.373 acc:  0.676
+_______training_______
+epoch:  99 loss:  0.135 acc:  0.962
+_______validation_______
+epoch:  99 loss:  1.293 acc:  0.695
+_______training_______
+epoch:  100 loss:  0.139 acc:  0.963
+_______validation_______
+epoch:  100 loss:  1.300 acc:  0.683
+_______training_______
+epoch:  101 loss:  0.150 acc:  0.959
+_______validation_______
+epoch:  101 loss:  1.310 acc:  0.682
+_______training_______
+epoch:  102 loss:  0.134 acc:  0.963
+_______validation_______
+epoch:  102 loss:  1.288 acc:  0.685
+_______training_______
+epoch:  103 loss:  0.133 acc:  0.965
+_______validation_______
+epoch:  103 loss:  1.318 acc:  0.694
+_______training_______
+epoch:  104 loss:  0.139 acc:  0.962
+_______validation_______
+epoch:  104 loss:  1.284 acc:  0.694
+_______training_______
+epoch:  105 loss:  0.129 acc:  0.965
+_______validation_______
+epoch:  105 loss:  1.329 acc:  0.699
+_______training_______
+epoch:  106 loss:  0.138 acc:  0.963
+_______validation_______
+epoch:  106 loss:  1.348 acc:  0.687
+_______training_______
+epoch:  107 loss:  0.140 acc:  0.962
+_______validation_______
+epoch:  107 loss:  1.362 acc:  0.672
+_______training_______
+epoch:  108 loss:  0.134 acc:  0.963
+_______validation_______
+epoch:  108 loss:  1.435 acc:  0.676
+_______training_______
+epoch:  109 loss:  0.137 acc:  0.962
+_______validation_______
+epoch:  109 loss:  1.245 acc:  0.711
+_______training_______
+epoch:  110 loss:  0.128 acc:  0.965
+_______validation_______
+epoch:  110 loss:  1.425 acc:  0.669
+_______training_______
+epoch:  111 loss:  0.139 acc:  0.962
+_______validation_______
+epoch:  111 loss:  1.232 acc:  0.689
+_______training_______
+epoch:  112 loss:  0.144 acc:  0.960
+_______validation_______
+epoch:  112 loss:  1.294 acc:  0.693
+_______training_______
+epoch:  113 loss:  0.131 acc:  0.964
+_______validation_______
+epoch:  113 loss:  1.312 acc:  0.692
+_______training_______
+epoch:  114 loss:  0.143 acc:  0.960
+_______validation_______
+epoch:  114 loss:  1.342 acc:  0.686
+_______training_______
+epoch:  115 loss:  0.125 acc:  0.966
+_______validation_______
+epoch:  115 loss:  1.540 acc:  0.664
+_______training_______
+epoch:  116 loss:  0.135 acc:  0.963
+_______validation_______
+epoch:  116 loss:  1.344 acc:  0.689
+_______training_______
+epoch:  117 loss:  0.129 acc:  0.965
+_______validation_______
+epoch:  117 loss:  1.343 acc:  0.695
+_______training_______
+epoch:  118 loss:  0.124 acc:  0.967
+_______validation_______
+epoch:  118 loss:  1.315 acc:  0.689
+_______training_______
+epoch:  119 loss:  0.125 acc:  0.966
+_______validation_______
+epoch:  119 loss:  1.318 acc:  0.696
+_______training_______
+epoch:  120 loss:  0.124 acc:  0.967
+_______validation_______
+epoch:  120 loss:  1.335 acc:  0.694
+_______training_______
+epoch:  121 loss:  0.038 acc:  0.993
+_______validation_______
+epoch:  121 loss:  0.910 acc:  0.782
+_______training_______
+epoch:  122 loss:  0.015 acc:  0.998
+_______validation_______
+epoch:  122 loss:  0.896 acc:  0.785
+_______training_______
+epoch:  123 loss:  0.011 acc:  0.999
+_______validation_______
+epoch:  123 loss:  0.877 acc:  0.788
+_______training_______
+epoch:  124 loss:  0.010 acc:  0.999
+_______validation_______
+epoch:  124 loss:  0.874 acc:  0.787
+_______training_______
+epoch:  125 loss:  0.008 acc:  0.999
+_______validation_______
+epoch:  125 loss:  0.866 acc:  0.791
+_______training_______
+epoch:  126 loss:  0.008 acc:  0.999
+_______validation_______
+epoch:  126 loss:  0.864 acc:  0.789
+_______training_______
+epoch:  127 loss:  0.007 acc:  0.999
+_______validation_______
+epoch:  127 loss:  0.853 acc:  0.792
+_______training_______
+epoch:  128 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  128 loss:  0.855 acc:  0.796
+_______training_______
+epoch:  129 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  129 loss:  0.841 acc:  0.791
+_______training_______
+epoch:  130 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  130 loss:  0.848 acc:  0.790
+_______training_______
+epoch:  131 loss:  0.007 acc:  0.999
+_______validation_______
+epoch:  131 loss:  0.837 acc:  0.793
+_______training_______
+epoch:  132 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  132 loss:  0.840 acc:  0.793
+_______training_______
+epoch:  133 loss:  0.006 acc:  0.999
+_______validation_______
+epoch:  133 loss:  0.833 acc:  0.789
+_______training_______
+epoch:  134 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  134 loss:  0.832 acc:  0.793
+_______training_______
+epoch:  135 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  135 loss:  0.829 acc:  0.793
+_______training_______
+epoch:  136 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  136 loss:  0.823 acc:  0.793
+_______training_______
+epoch:  137 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  137 loss:  0.824 acc:  0.795
+_______training_______
+epoch:  138 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  138 loss:  0.817 acc:  0.797
+_______training_______
+epoch:  139 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  139 loss:  0.814 acc:  0.797
+_______training_______
+epoch:  140 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  140 loss:  0.816 acc:  0.797
+_______training_______
+epoch:  141 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  141 loss:  0.817 acc:  0.797
+_______training_______
+epoch:  142 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  142 loss:  0.820 acc:  0.793
+_______training_______
+epoch:  143 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  143 loss:  0.815 acc:  0.797
+_______training_______
+epoch:  144 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  144 loss:  0.813 acc:  0.797
+_______training_______
+epoch:  145 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  145 loss:  0.811 acc:  0.796
+_______training_______
+epoch:  146 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  146 loss:  0.806 acc:  0.796
+_______training_______
+epoch:  147 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  147 loss:  0.807 acc:  0.797
+_______training_______
+epoch:  148 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  148 loss:  0.808 acc:  0.795
+_______training_______
+epoch:  149 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  149 loss:  0.802 acc:  0.796
+_______training_______
+epoch:  150 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  150 loss:  0.802 acc:  0.798
+_______training_______
+epoch:  151 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  151 loss:  0.806 acc:  0.798
+_______training_______
+epoch:  152 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  152 loss:  0.801 acc:  0.798
+_______training_______
+epoch:  153 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  153 loss:  0.804 acc:  0.798
+_______training_______
+epoch:  154 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  154 loss:  0.800 acc:  0.797
+_______training_______
+epoch:  155 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  155 loss:  0.799 acc:  0.797
+_______training_______
+epoch:  156 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  156 loss:  0.798 acc:  0.800
+_______training_______
+epoch:  157 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  157 loss:  0.795 acc:  0.799
+_______training_______
+epoch:  158 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  158 loss:  0.793 acc:  0.801
+_______training_______
+epoch:  159 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  159 loss:  0.795 acc:  0.801
+_______training_______
+epoch:  160 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  160 loss:  0.800 acc:  0.799
+_______training_______
+epoch:  161 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  161 loss:  0.802 acc:  0.801
+_______training_______
+epoch:  162 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  162 loss:  0.794 acc:  0.803
+_______training_______
+epoch:  163 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  163 loss:  0.797 acc:  0.800
+_______training_______
+epoch:  164 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  164 loss:  0.806 acc:  0.799
+_______training_______
+epoch:  165 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  165 loss:  0.802 acc:  0.800
+_______training_______
+epoch:  166 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  166 loss:  0.798 acc:  0.801
+_______training_______
+epoch:  167 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  167 loss:  0.796 acc:  0.800
+_______training_______
+epoch:  168 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  168 loss:  0.802 acc:  0.798
+_______training_______
+epoch:  169 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  169 loss:  0.798 acc:  0.800
+_______training_______
+epoch:  170 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  170 loss:  0.798 acc:  0.798
+_______training_______
+epoch:  171 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  171 loss:  0.803 acc:  0.798
+_______training_______
+epoch:  172 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  172 loss:  0.798 acc:  0.798
+_______training_______
+epoch:  173 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  173 loss:  0.805 acc:  0.800
+_______training_______
+epoch:  174 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  174 loss:  0.804 acc:  0.799
+_______training_______
+epoch:  175 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  175 loss:  0.799 acc:  0.802
+_______training_______
+epoch:  176 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  176 loss:  0.800 acc:  0.803
+_______training_______
+epoch:  177 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  177 loss:  0.813 acc:  0.798
+_______training_______
+epoch:  178 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  178 loss:  0.807 acc:  0.800
+_______training_______
+epoch:  179 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  179 loss:  0.814 acc:  0.797
+_______training_______
+epoch:  180 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  180 loss:  0.810 acc:  0.797
+_______training_______
+epoch:  181 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  181 loss:  0.809 acc:  0.799
+_______training_______
+epoch:  182 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  182 loss:  0.809 acc:  0.798
+_______training_______
+epoch:  183 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  183 loss:  0.808 acc:  0.802
+_______training_______
+epoch:  184 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  184 loss:  0.809 acc:  0.797
+_______training_______
+epoch:  185 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  185 loss:  0.813 acc:  0.799
+_______training_______
+epoch:  186 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  186 loss:  0.809 acc:  0.799
+_______training_______
+epoch:  187 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  187 loss:  0.809 acc:  0.800
+_______training_______
+epoch:  188 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  188 loss:  0.808 acc:  0.800
+_______training_______
+epoch:  189 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  189 loss:  0.807 acc:  0.801
+_______training_______
+epoch:  190 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  190 loss:  0.810 acc:  0.798
+_______training_______
+epoch:  191 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  191 loss:  0.810 acc:  0.801
+_______training_______
+epoch:  192 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  192 loss:  0.807 acc:  0.800
+_______training_______
+epoch:  193 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  193 loss:  0.808 acc:  0.800
+_______training_______
+epoch:  194 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  194 loss:  0.810 acc:  0.799
+_______training_______
+epoch:  195 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  195 loss:  0.815 acc:  0.799
+_______training_______
+epoch:  196 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  196 loss:  0.809 acc:  0.802
+_______training_______
+epoch:  197 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  197 loss:  0.817 acc:  0.802
+_______training_______
+epoch:  198 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  198 loss:  0.812 acc:  0.800
+_______training_______
+epoch:  199 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  199 loss:  0.814 acc:  0.802
+_______training_______
+epoch:  200 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  200 loss:  0.811 acc:  0.800
+Training finish. The optimal validation accuracy is:  0.803
+test_loss:  0.805 test_acc:  0.801
+_______training_______
+epoch:  1 loss:  3.778 acc:  0.117
+_______validation_______
+epoch:  1 loss:  4.279 acc:  0.122
+_______training_______
+epoch:  2 loss:  3.040 acc:  0.237
+_______validation_______
+epoch:  2 loss:  3.142 acc:  0.222
+_______training_______
+epoch:  3 loss:  2.628 acc:  0.316
+_______validation_______
+epoch:  3 loss:  2.729 acc:  0.314
+_______training_______
+epoch:  4 loss:  2.340 acc:  0.376
+_______validation_______
+epoch:  4 loss:  2.508 acc:  0.349
+_______training_______
+epoch:  5 loss:  2.115 acc:  0.426
+_______validation_______
+epoch:  5 loss:  2.099 acc:  0.436
+_______training_______
+epoch:  6 loss:  1.940 acc:  0.463
+_______validation_______
+epoch:  6 loss:  2.101 acc:  0.432
+_______training_______
+epoch:  7 loss:  1.802 acc:  0.497
+_______validation_______
+epoch:  7 loss:  1.986 acc:  0.457
+_______training_______
+epoch:  8 loss:  1.712 acc:  0.517
+_______validation_______
+epoch:  8 loss:  1.791 acc:  0.506
+_______training_______
+epoch:  9 loss:  1.637 acc:  0.539
+_______validation_______
+epoch:  9 loss:  1.826 acc:  0.495
+_______training_______
+epoch:  10 loss:  1.535 acc:  0.564
+_______validation_______
+epoch:  10 loss:  1.777 acc:  0.512
+_______training_______
+epoch:  11 loss:  1.487 acc:  0.576
+_______validation_______
+epoch:  11 loss:  1.837 acc:  0.497
+_______training_______
+epoch:  12 loss:  1.437 acc:  0.590
+_______validation_______
+epoch:  12 loss:  1.707 acc:  0.532
+_______training_______
+epoch:  13 loss:  1.389 acc:  0.599
+_______validation_______
+epoch:  13 loss:  1.833 acc:  0.507
+_______training_______
+epoch:  14 loss:  1.344 acc:  0.618
+_______validation_______
+epoch:  14 loss:  1.790 acc:  0.519
+_______training_______
+epoch:  15 loss:  1.310 acc:  0.623
+_______validation_______
+epoch:  15 loss:  1.611 acc:  0.561
+_______training_______
+epoch:  16 loss:  1.269 acc:  0.633
+_______validation_______
+epoch:  16 loss:  1.681 acc:  0.545
+_______training_______
+epoch:  17 loss:  1.238 acc:  0.642
+_______validation_______
+epoch:  17 loss:  1.548 acc:  0.576
+_______training_______
+epoch:  18 loss:  1.228 acc:  0.643
+_______validation_______
+epoch:  18 loss:  1.730 acc:  0.539
+_______training_______
+epoch:  19 loss:  1.185 acc:  0.659
+_______validation_______
+epoch:  19 loss:  1.754 acc:  0.531
+_______training_______
+epoch:  20 loss:  1.168 acc:  0.661
+_______validation_______
+epoch:  20 loss:  1.685 acc:  0.562
+_______training_______
+epoch:  21 loss:  1.149 acc:  0.664
+_______validation_______
+epoch:  21 loss:  1.631 acc:  0.563
+_______training_______
+epoch:  22 loss:  1.131 acc:  0.671
+_______validation_______
+epoch:  22 loss:  1.521 acc:  0.588
+_______training_______
+epoch:  23 loss:  1.112 acc:  0.676
+_______validation_______
+epoch:  23 loss:  1.647 acc:  0.553
+_______training_______
+epoch:  24 loss:  1.105 acc:  0.678
+_______validation_______
+epoch:  24 loss:  1.517 acc:  0.588
+_______training_______
+epoch:  25 loss:  1.077 acc:  0.687
+_______validation_______
+epoch:  25 loss:  1.528 acc:  0.590
+_______training_______
+epoch:  26 loss:  1.065 acc:  0.691
+_______validation_______
+epoch:  26 loss:  1.614 acc:  0.570
+_______training_______
+epoch:  27 loss:  1.057 acc:  0.690
+_______validation_______
+epoch:  27 loss:  1.573 acc:  0.571
+_______training_______
+epoch:  28 loss:  1.040 acc:  0.694
+_______validation_______
+epoch:  28 loss:  1.478 acc:  0.600
+_______training_______
+epoch:  29 loss:  1.034 acc:  0.694
+_______validation_______
+epoch:  29 loss:  1.892 acc:  0.521
+_______training_______
+epoch:  30 loss:  1.031 acc:  0.698
+_______validation_______
+epoch:  30 loss:  1.562 acc:  0.584
+_______training_______
+epoch:  31 loss:  1.008 acc:  0.703
+_______validation_______
+epoch:  31 loss:  1.694 acc:  0.559
+_______training_______
+epoch:  32 loss:  1.009 acc:  0.701
+_______validation_______
+epoch:  32 loss:  1.560 acc:  0.585
+_______training_______
+epoch:  33 loss:  0.993 acc:  0.706
+_______validation_______
+epoch:  33 loss:  1.731 acc:  0.558
+_______training_______
+epoch:  34 loss:  0.970 acc:  0.715
+_______validation_______
+epoch:  34 loss:  1.693 acc:  0.562
+_______training_______
+epoch:  35 loss:  0.992 acc:  0.707
+_______validation_______
+epoch:  35 loss:  1.789 acc:  0.548
+_______training_______
+epoch:  36 loss:  0.971 acc:  0.714
+_______validation_______
+epoch:  36 loss:  1.748 acc:  0.545
+_______training_______
+epoch:  37 loss:  0.956 acc:  0.717
+_______validation_______
+epoch:  37 loss:  1.858 acc:  0.540
+_______training_______
+epoch:  38 loss:  0.963 acc:  0.717
+_______validation_______
+epoch:  38 loss:  1.725 acc:  0.552
+_______training_______
+epoch:  39 loss:  0.954 acc:  0.719
+_______validation_______
+epoch:  39 loss:  1.680 acc:  0.562
+_______training_______
+epoch:  40 loss:  0.937 acc:  0.723
+_______validation_______
+epoch:  40 loss:  1.547 acc:  0.598
+_______training_______
+epoch:  41 loss:  0.948 acc:  0.720
+_______validation_______
+epoch:  41 loss:  1.699 acc:  0.554
+_______training_______
+epoch:  42 loss:  0.938 acc:  0.724
+_______validation_______
+epoch:  42 loss:  1.884 acc:  0.538
+_______training_______
+epoch:  43 loss:  0.923 acc:  0.726
+_______validation_______
+epoch:  43 loss:  1.795 acc:  0.535
+_______training_______
+epoch:  44 loss:  0.921 acc:  0.728
+_______validation_______
+epoch:  44 loss:  1.530 acc:  0.597
+_______training_______
+epoch:  45 loss:  0.919 acc:  0.729
+_______validation_______
+epoch:  45 loss:  1.590 acc:  0.577
+_______training_______
+epoch:  46 loss:  0.922 acc:  0.725
+_______validation_______
+epoch:  46 loss:  1.481 acc:  0.606
+_______training_______
+epoch:  47 loss:  0.908 acc:  0.733
+_______validation_______
+epoch:  47 loss:  1.693 acc:  0.568
+_______training_______
+epoch:  48 loss:  0.900 acc:  0.733
+_______validation_______
+epoch:  48 loss:  1.561 acc:  0.583
+_______training_______
+epoch:  49 loss:  0.897 acc:  0.734
+_______validation_______
+epoch:  49 loss:  1.378 acc:  0.628
+_______training_______
+epoch:  50 loss:  0.896 acc:  0.734
+_______validation_______
+epoch:  50 loss:  1.691 acc:  0.565
+_______training_______
+epoch:  51 loss:  0.899 acc:  0.734
+_______validation_______
+epoch:  51 loss:  1.667 acc:  0.561
+_______training_______
+epoch:  52 loss:  0.892 acc:  0.735
+_______validation_______
+epoch:  52 loss:  1.678 acc:  0.571
+_______training_______
+epoch:  53 loss:  0.892 acc:  0.737
+_______validation_______
+epoch:  53 loss:  1.691 acc:  0.571
+_______training_______
+epoch:  54 loss:  0.886 acc:  0.737
+_______validation_______
+epoch:  54 loss:  1.827 acc:  0.553
+_______training_______
+epoch:  55 loss:  0.880 acc:  0.739
+_______validation_______
+epoch:  55 loss:  1.841 acc:  0.552
+_______training_______
+epoch:  56 loss:  0.876 acc:  0.741
+_______validation_______
+epoch:  56 loss:  1.715 acc:  0.563
+_______training_______
+epoch:  57 loss:  0.874 acc:  0.741
+_______validation_______
+epoch:  57 loss:  1.694 acc:  0.584
+_______training_______
+epoch:  58 loss:  0.869 acc:  0.741
+_______validation_______
+epoch:  58 loss:  1.469 acc:  0.607
+_______training_______
+epoch:  59 loss:  0.870 acc:  0.743
+_______validation_______
+epoch:  59 loss:  1.612 acc:  0.582
+_______training_______
+epoch:  60 loss:  0.858 acc:  0.746
+_______validation_______
+epoch:  60 loss:  1.630 acc:  0.576
+_______training_______
+epoch:  61 loss:  0.405 acc:  0.880
+_______validation_______
+epoch:  61 loss:  0.793 acc:  0.774
+_______training_______
+epoch:  62 loss:  0.255 acc:  0.926
+_______validation_______
+epoch:  62 loss:  0.813 acc:  0.777
+_______training_______
+epoch:  63 loss:  0.199 acc:  0.943
+_______validation_______
+epoch:  63 loss:  0.806 acc:  0.779
+_______training_______
+epoch:  64 loss:  0.156 acc:  0.958
+_______validation_______
+epoch:  64 loss:  0.848 acc:  0.773
+_______training_______
+epoch:  65 loss:  0.137 acc:  0.963
+_______validation_______
+epoch:  65 loss:  0.871 acc:  0.776
+_______training_______
+epoch:  66 loss:  0.118 acc:  0.969
+_______validation_______
+epoch:  66 loss:  0.863 acc:  0.770
+_______training_______
+epoch:  67 loss:  0.109 acc:  0.972
+_______validation_______
+epoch:  67 loss:  0.911 acc:  0.774
+_______training_______
+epoch:  68 loss:  0.100 acc:  0.975
+_______validation_______
+epoch:  68 loss:  0.958 acc:  0.760
+_______training_______
+epoch:  69 loss:  0.097 acc:  0.975
+_______validation_______
+epoch:  69 loss:  0.994 acc:  0.753
+_______training_______
+epoch:  70 loss:  0.096 acc:  0.975
+_______validation_______
+epoch:  70 loss:  0.953 acc:  0.762
+_______training_______
+epoch:  71 loss:  0.100 acc:  0.974
+_______validation_______
+epoch:  71 loss:  0.976 acc:  0.750
+_______training_______
+epoch:  72 loss:  0.103 acc:  0.973
+_______validation_______
+epoch:  72 loss:  1.046 acc:  0.745
+_______training_______
+epoch:  73 loss:  0.111 acc:  0.970
+_______validation_______
+epoch:  73 loss:  1.041 acc:  0.738
+_______training_______
+epoch:  74 loss:  0.113 acc:  0.970
+_______validation_______
+epoch:  74 loss:  1.115 acc:  0.730
+_______training_______
+epoch:  75 loss:  0.127 acc:  0.966
+_______validation_______
+epoch:  75 loss:  1.027 acc:  0.744
+_______training_______
+epoch:  76 loss:  0.132 acc:  0.965
+_______validation_______
+epoch:  76 loss:  1.059 acc:  0.730
+_______training_______
+epoch:  77 loss:  0.139 acc:  0.963
+_______validation_______
+epoch:  77 loss:  1.202 acc:  0.712
+_______training_______
+epoch:  78 loss:  0.150 acc:  0.958
+_______validation_______
+epoch:  78 loss:  1.162 acc:  0.715
+_______training_______
+epoch:  79 loss:  0.152 acc:  0.957
+_______validation_______
+epoch:  79 loss:  1.220 acc:  0.700
+_______training_______
+epoch:  80 loss:  0.152 acc:  0.958
+_______validation_______
+epoch:  80 loss:  1.290 acc:  0.700
+_______training_______
+epoch:  81 loss:  0.152 acc:  0.957
+_______validation_______
+epoch:  81 loss:  1.166 acc:  0.717
+_______training_______
+epoch:  82 loss:  0.159 acc:  0.956
+_______validation_______
+epoch:  82 loss:  1.218 acc:  0.701
+_______training_______
+epoch:  83 loss:  0.163 acc:  0.953
+_______validation_______
+epoch:  83 loss:  1.166 acc:  0.707
+_______training_______
+epoch:  84 loss:  0.167 acc:  0.952
+_______validation_______
+epoch:  84 loss:  1.229 acc:  0.694
+_______training_______
+epoch:  85 loss:  0.148 acc:  0.958
+_______validation_______
+epoch:  85 loss:  1.188 acc:  0.711
+_______training_______
+epoch:  86 loss:  0.148 acc:  0.957
+_______validation_______
+epoch:  86 loss:  1.142 acc:  0.715
+_______training_______
+epoch:  87 loss:  0.157 acc:  0.957
+_______validation_______
+epoch:  87 loss:  1.204 acc:  0.717
+_______training_______
+epoch:  88 loss:  0.145 acc:  0.960
+_______validation_______
+epoch:  88 loss:  1.174 acc:  0.721
+_______training_______
+epoch:  89 loss:  0.134 acc:  0.963
+_______validation_______
+epoch:  89 loss:  1.127 acc:  0.726
+_______training_______
+epoch:  90 loss:  0.141 acc:  0.961
+_______validation_______
+epoch:  90 loss:  1.235 acc:  0.710
+_______training_______
+epoch:  91 loss:  0.161 acc:  0.955
+_______validation_______
+epoch:  91 loss:  1.101 acc:  0.723
+_______training_______
+epoch:  92 loss:  0.159 acc:  0.955
+_______validation_______
+epoch:  92 loss:  1.181 acc:  0.716
+_______training_______
+epoch:  93 loss:  0.160 acc:  0.956
+_______validation_______
+epoch:  93 loss:  1.172 acc:  0.714
+_______training_______
+epoch:  94 loss:  0.142 acc:  0.961
+_______validation_______
+epoch:  94 loss:  1.237 acc:  0.709
+_______training_______
+epoch:  95 loss:  0.140 acc:  0.962
+_______validation_______
+epoch:  95 loss:  1.186 acc:  0.718
+_______training_______
+epoch:  96 loss:  0.135 acc:  0.964
+_______validation_______
+epoch:  96 loss:  1.253 acc:  0.700
+_______training_______
+epoch:  97 loss:  0.135 acc:  0.963
+_______validation_______
+epoch:  97 loss:  1.118 acc:  0.721
+_______training_______
+epoch:  98 loss:  0.131 acc:  0.963
+_______validation_______
+epoch:  98 loss:  1.281 acc:  0.696
+_______training_______
+epoch:  99 loss:  0.149 acc:  0.958
+_______validation_______
+epoch:  99 loss:  1.154 acc:  0.717
+_______training_______
+epoch:  100 loss:  0.125 acc:  0.967
+_______validation_______
+epoch:  100 loss:  1.171 acc:  0.714
+_______training_______
+epoch:  101 loss:  0.145 acc:  0.960
+_______validation_______
+epoch:  101 loss:  1.311 acc:  0.701
+_______training_______
+epoch:  102 loss:  0.140 acc:  0.962
+_______validation_______
+epoch:  102 loss:  1.183 acc:  0.714
+_______training_______
+epoch:  103 loss:  0.144 acc:  0.961
+_______validation_______
+epoch:  103 loss:  1.231 acc:  0.704
+_______training_______
+epoch:  104 loss:  0.130 acc:  0.965
+_______validation_______
+epoch:  104 loss:  1.263 acc:  0.704
+_______training_______
+epoch:  105 loss:  0.133 acc:  0.964
+_______validation_______
+epoch:  105 loss:  1.246 acc:  0.705
+_______training_______
+epoch:  106 loss:  0.153 acc:  0.957
+_______validation_______
+epoch:  106 loss:  1.188 acc:  0.703
+_______training_______
+epoch:  107 loss:  0.142 acc:  0.961
+_______validation_______
+epoch:  107 loss:  1.165 acc:  0.722
+_______training_______
+epoch:  108 loss:  0.141 acc:  0.961
+_______validation_______
+epoch:  108 loss:  1.275 acc:  0.699
+_______training_______
+epoch:  109 loss:  0.125 acc:  0.966
+_______validation_______
+epoch:  109 loss:  1.223 acc:  0.709
+_______training_______
+epoch:  110 loss:  0.127 acc:  0.966
+_______validation_______
+epoch:  110 loss:  1.120 acc:  0.721
+_______training_______
+epoch:  111 loss:  0.147 acc:  0.959
+_______validation_______
+epoch:  111 loss:  1.186 acc:  0.717
+_______training_______
+epoch:  112 loss:  0.138 acc:  0.963
+_______validation_______
+epoch:  112 loss:  1.204 acc:  0.717
+_______training_______
+epoch:  113 loss:  0.122 acc:  0.967
+_______validation_______
+epoch:  113 loss:  1.219 acc:  0.710
+_______training_______
+epoch:  114 loss:  0.135 acc:  0.963
+_______validation_______
+epoch:  114 loss:  1.265 acc:  0.702
+_______training_______
+epoch:  115 loss:  0.126 acc:  0.965
+_______validation_______
+epoch:  115 loss:  1.251 acc:  0.708
+_______training_______
+epoch:  116 loss:  0.111 acc:  0.971
+_______validation_______
+epoch:  116 loss:  1.248 acc:  0.706
+_______training_______
+epoch:  117 loss:  0.135 acc:  0.964
+_______validation_______
+epoch:  117 loss:  1.279 acc:  0.696
+_______training_______
+epoch:  118 loss:  0.131 acc:  0.965
+_______validation_______
+epoch:  118 loss:  1.272 acc:  0.701
+_______training_______
+epoch:  119 loss:  0.150 acc:  0.959
+_______validation_______
+epoch:  119 loss:  1.180 acc:  0.717
+_______training_______
+epoch:  120 loss:  0.130 acc:  0.966
+_______validation_______
+epoch:  120 loss:  1.281 acc:  0.711
+_______training_______
+epoch:  121 loss:  0.037 acc:  0.993
+_______validation_______
+epoch:  121 loss:  0.847 acc:  0.789
+_______training_______
+epoch:  122 loss:  0.015 acc:  0.998
+_______validation_______
+epoch:  122 loss:  0.835 acc:  0.793
+_______training_______
+epoch:  123 loss:  0.011 acc:  0.999
+_______validation_______
+epoch:  123 loss:  0.829 acc:  0.798
+_______training_______
+epoch:  124 loss:  0.009 acc:  0.999
+_______validation_______
+epoch:  124 loss:  0.829 acc:  0.796
+_______training_______
+epoch:  125 loss:  0.008 acc:  0.999
+_______validation_______
+epoch:  125 loss:  0.823 acc:  0.796
+_______training_______
+epoch:  126 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  126 loss:  0.824 acc:  0.795
+_______training_______
+epoch:  127 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  127 loss:  0.817 acc:  0.798
+_______training_______
+epoch:  128 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  128 loss:  0.809 acc:  0.799
+_______training_______
+epoch:  129 loss:  0.006 acc:  0.999
+_______validation_______
+epoch:  129 loss:  0.806 acc:  0.800
+_______training_______
+epoch:  130 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  130 loss:  0.807 acc:  0.798
+_______training_______
+epoch:  131 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  131 loss:  0.806 acc:  0.796
+_______training_______
+epoch:  132 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  132 loss:  0.799 acc:  0.801
+_______training_______
+epoch:  133 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  133 loss:  0.797 acc:  0.797
+_______training_______
+epoch:  134 loss:  0.006 acc:  0.999
+_______validation_______
+epoch:  134 loss:  0.804 acc:  0.796
+_______training_______
+epoch:  135 loss:  0.006 acc:  0.999
+_______validation_______
+epoch:  135 loss:  0.796 acc:  0.797
+_______training_______
+epoch:  136 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  136 loss:  0.799 acc:  0.798
+_______training_______
+epoch:  137 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  137 loss:  0.793 acc:  0.799
+_______training_______
+epoch:  138 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  138 loss:  0.789 acc:  0.798
+_______training_______
+epoch:  139 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  139 loss:  0.787 acc:  0.802
+_______training_______
+epoch:  140 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  140 loss:  0.785 acc:  0.800
+_______training_______
+epoch:  141 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  141 loss:  0.780 acc:  0.801
+_______training_______
+epoch:  142 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  142 loss:  0.783 acc:  0.802
+_______training_______
+epoch:  143 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  143 loss:  0.785 acc:  0.801
+_______training_______
+epoch:  144 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  144 loss:  0.781 acc:  0.802
+_______training_______
+epoch:  145 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  145 loss:  0.775 acc:  0.804
+_______training_______
+epoch:  146 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  146 loss:  0.782 acc:  0.800
+_______training_______
+epoch:  147 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  147 loss:  0.774 acc:  0.799
+_______training_______
+epoch:  148 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  148 loss:  0.779 acc:  0.799
+_______training_______
+epoch:  149 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  149 loss:  0.778 acc:  0.800
+_______training_______
+epoch:  150 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  150 loss:  0.775 acc:  0.801
+_______training_______
+epoch:  151 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  151 loss:  0.770 acc:  0.800
+_______training_______
+epoch:  152 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  152 loss:  0.771 acc:  0.801
+_______training_______
+epoch:  153 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  153 loss:  0.774 acc:  0.798
+_______training_______
+epoch:  154 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  154 loss:  0.773 acc:  0.801
+_______training_______
+epoch:  155 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  155 loss:  0.770 acc:  0.802
+_______training_______
+epoch:  156 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  156 loss:  0.765 acc:  0.801
+_______training_______
+epoch:  157 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  157 loss:  0.773 acc:  0.799
+_______training_______
+epoch:  158 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  158 loss:  0.777 acc:  0.801
+_______training_______
+epoch:  159 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  159 loss:  0.771 acc:  0.802
+_______training_______
+epoch:  160 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  160 loss:  0.772 acc:  0.801
+_______training_______
+epoch:  161 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  161 loss:  0.778 acc:  0.799
+_______training_______
+epoch:  162 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  162 loss:  0.773 acc:  0.800
+_______training_______
+epoch:  163 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  163 loss:  0.773 acc:  0.802
+_______training_______
+epoch:  164 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  164 loss:  0.771 acc:  0.804
+_______training_______
+epoch:  165 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  165 loss:  0.775 acc:  0.803
+_______training_______
+epoch:  166 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  166 loss:  0.780 acc:  0.801
+_______training_______
+epoch:  167 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  167 loss:  0.777 acc:  0.804
+_______training_______
+epoch:  168 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  168 loss:  0.778 acc:  0.800
+_______training_______
+epoch:  169 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  169 loss:  0.775 acc:  0.804
+_______training_______
+epoch:  170 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  170 loss:  0.775 acc:  0.802
+_______training_______
+epoch:  171 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  171 loss:  0.778 acc:  0.803
+_______training_______
+epoch:  172 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  172 loss:  0.777 acc:  0.805
+_______training_______
+epoch:  173 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  173 loss:  0.782 acc:  0.804
+_______training_______
+epoch:  174 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  174 loss:  0.776 acc:  0.805
+_______training_______
+epoch:  175 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  175 loss:  0.778 acc:  0.804
+_______training_______
+epoch:  176 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  176 loss:  0.783 acc:  0.804
+_______training_______
+epoch:  177 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  177 loss:  0.782 acc:  0.803
+_______training_______
+epoch:  178 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  178 loss:  0.785 acc:  0.805
+_______training_______
+epoch:  179 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  179 loss:  0.784 acc:  0.805
+_______training_______
+epoch:  180 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  180 loss:  0.783 acc:  0.806
+_______training_______
+epoch:  181 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  181 loss:  0.779 acc:  0.808
+_______training_______
+epoch:  182 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  182 loss:  0.779 acc:  0.805
+_______training_______
+epoch:  183 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  183 loss:  0.776 acc:  0.807
+_______training_______
+epoch:  184 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  184 loss:  0.776 acc:  0.809
+_______training_______
+epoch:  185 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  185 loss:  0.781 acc:  0.805
+_______training_______
+epoch:  186 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  186 loss:  0.784 acc:  0.809
+_______training_______
+epoch:  187 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  187 loss:  0.779 acc:  0.806
+_______training_______
+epoch:  188 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  188 loss:  0.783 acc:  0.807
+_______training_______
+epoch:  189 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  189 loss:  0.779 acc:  0.806
+_______training_______
+epoch:  190 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  190 loss:  0.778 acc:  0.806
+_______training_______
+epoch:  191 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  191 loss:  0.779 acc:  0.805
+_______training_______
+epoch:  192 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  192 loss:  0.780 acc:  0.808
+_______training_______
+epoch:  193 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  193 loss:  0.776 acc:  0.805
+_______training_______
+epoch:  194 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  194 loss:  0.781 acc:  0.805
+_______training_______
+epoch:  195 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  195 loss:  0.784 acc:  0.806
+_______training_______
+epoch:  196 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  196 loss:  0.782 acc:  0.806
+_______training_______
+epoch:  197 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  197 loss:  0.777 acc:  0.808
+_______training_______
+epoch:  198 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  198 loss:  0.782 acc:  0.806
+_______training_______
+epoch:  199 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  199 loss:  0.783 acc:  0.804
+_______training_______
+epoch:  200 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  200 loss:  0.783 acc:  0.807
+Training finish. The optimal validation accuracy is:  0.809
+test_loss:  0.785 test_acc:  0.805
+_______training_______
+epoch:  1 loss:  3.755 acc:  0.122
+_______validation_______
+epoch:  1 loss:  3.571 acc:  0.152
+_______training_______
+epoch:  2 loss:  3.002 acc:  0.243
+_______validation_______
+epoch:  2 loss:  2.865 acc:  0.274
+_______training_______
+epoch:  3 loss:  2.587 acc:  0.323
+_______validation_______
+epoch:  3 loss:  2.828 acc:  0.263
+_______training_______
+epoch:  4 loss:  2.288 acc:  0.388
+_______validation_______
+epoch:  4 loss:  2.612 acc:  0.329
+_______training_______
+epoch:  5 loss:  2.077 acc:  0.430
+_______validation_______
+epoch:  5 loss:  2.598 acc:  0.354
+_______training_______
+epoch:  6 loss:  1.907 acc:  0.472
+_______validation_______
+epoch:  6 loss:  2.349 acc:  0.384
+_______training_______
+epoch:  7 loss:  1.786 acc:  0.499
+_______validation_______
+epoch:  7 loss:  2.223 acc:  0.422
+_______training_______
+epoch:  8 loss:  1.679 acc:  0.529
+_______validation_______
+epoch:  8 loss:  2.049 acc:  0.455
+_______training_______
+epoch:  9 loss:  1.588 acc:  0.551
+_______validation_______
+epoch:  9 loss:  1.848 acc:  0.481
+_______training_______
+epoch:  10 loss:  1.510 acc:  0.569
+_______validation_______
+epoch:  10 loss:  1.896 acc:  0.488
+_______training_______
+epoch:  11 loss:  1.466 acc:  0.584
+_______validation_______
+epoch:  11 loss:  1.802 acc:  0.516
+_______training_______
+epoch:  12 loss:  1.408 acc:  0.596
+_______validation_______
+epoch:  12 loss:  1.907 acc:  0.501
+_______training_______
+epoch:  13 loss:  1.370 acc:  0.610
+_______validation_______
+epoch:  13 loss:  2.156 acc:  0.473
+_______training_______
+epoch:  14 loss:  1.321 acc:  0.620
+_______validation_______
+epoch:  14 loss:  1.854 acc:  0.499
+_______training_______
+epoch:  15 loss:  1.297 acc:  0.627
+_______validation_______
+epoch:  15 loss:  1.667 acc:  0.554
+_______training_______
+epoch:  16 loss:  1.251 acc:  0.636
+_______validation_______
+epoch:  16 loss:  1.967 acc:  0.503
+_______training_______
+epoch:  17 loss:  1.238 acc:  0.642
+_______validation_______
+epoch:  17 loss:  1.735 acc:  0.532
+_______training_______
+epoch:  18 loss:  1.203 acc:  0.652
+_______validation_______
+epoch:  18 loss:  1.911 acc:  0.494
+_______training_______
+epoch:  19 loss:  1.180 acc:  0.656
+_______validation_______
+epoch:  19 loss:  1.848 acc:  0.513
+_______training_______
+epoch:  20 loss:  1.162 acc:  0.661
+_______validation_______
+epoch:  20 loss:  1.600 acc:  0.563
+_______training_______
+epoch:  21 loss:  1.150 acc:  0.669
+_______validation_______
+epoch:  21 loss:  1.650 acc:  0.554
+_______training_______
+epoch:  22 loss:  1.127 acc:  0.673
+_______validation_______
+epoch:  22 loss:  1.792 acc:  0.531
+_______training_______
+epoch:  23 loss:  1.096 acc:  0.679
+_______validation_______
+epoch:  23 loss:  1.569 acc:  0.576
+_______training_______
+epoch:  24 loss:  1.097 acc:  0.679
+_______validation_______
+epoch:  24 loss:  1.871 acc:  0.522
+_______training_______
+epoch:  25 loss:  1.072 acc:  0.689
+_______validation_______
+epoch:  25 loss:  1.712 acc:  0.558
+_______training_______
+epoch:  26 loss:  1.061 acc:  0.691
+_______validation_______
+epoch:  26 loss:  1.771 acc:  0.541
+_______training_______
+epoch:  27 loss:  1.056 acc:  0.690
+_______validation_______
+epoch:  27 loss:  1.635 acc:  0.555
+_______training_______
+epoch:  28 loss:  1.040 acc:  0.694
+_______validation_______
+epoch:  28 loss:  1.537 acc:  0.590
+_______training_______
+epoch:  29 loss:  1.013 acc:  0.702
+_______validation_______
+epoch:  29 loss:  1.710 acc:  0.556
+_______training_______
+epoch:  30 loss:  1.028 acc:  0.698
+_______validation_______
+epoch:  30 loss:  1.617 acc:  0.573
+_______training_______
+epoch:  31 loss:  1.005 acc:  0.705
+_______validation_______
+epoch:  31 loss:  1.629 acc:  0.567
+_______training_______
+epoch:  32 loss:  0.997 acc:  0.707
+_______validation_______
+epoch:  32 loss:  1.721 acc:  0.555
+_______training_______
+epoch:  33 loss:  0.987 acc:  0.709
+_______validation_______
+epoch:  33 loss:  1.485 acc:  0.599
+_______training_______
+epoch:  34 loss:  0.990 acc:  0.710
+_______validation_______
+epoch:  34 loss:  1.637 acc:  0.567
+_______training_______
+epoch:  35 loss:  0.980 acc:  0.711
+_______validation_______
+epoch:  35 loss:  1.809 acc:  0.532
+_______training_______
+epoch:  36 loss:  0.965 acc:  0.717
+_______validation_______
+epoch:  36 loss:  1.505 acc:  0.595
+_______training_______
+epoch:  37 loss:  0.969 acc:  0.715
+_______validation_______
+epoch:  37 loss:  1.604 acc:  0.572
+_______training_______
+epoch:  38 loss:  0.952 acc:  0.719
+_______validation_______
+epoch:  38 loss:  1.669 acc:  0.568
+_______training_______
+epoch:  39 loss:  0.945 acc:  0.723
+_______validation_______
+epoch:  39 loss:  1.913 acc:  0.514
+_______training_______
+epoch:  40 loss:  0.945 acc:  0.722
+_______validation_______
+epoch:  40 loss:  1.587 acc:  0.585
+_______training_______
+epoch:  41 loss:  0.947 acc:  0.722
+_______validation_______
+epoch:  41 loss:  1.672 acc:  0.564
+_______training_______
+epoch:  42 loss:  0.933 acc:  0.726
+_______validation_______
+epoch:  42 loss:  1.592 acc:  0.583
+_______training_______
+epoch:  43 loss:  0.934 acc:  0.725
+_______validation_______
+epoch:  43 loss:  1.669 acc:  0.568
+_______training_______
+epoch:  44 loss:  0.927 acc:  0.726
+_______validation_______
+epoch:  44 loss:  1.901 acc:  0.533
+_______training_______
+epoch:  45 loss:  0.912 acc:  0.730
+_______validation_______
+epoch:  45 loss:  1.828 acc:  0.535
+_______training_______
+epoch:  46 loss:  0.921 acc:  0.728
+_______validation_______
+epoch:  46 loss:  1.564 acc:  0.588
+_______training_______
+epoch:  47 loss:  0.909 acc:  0.730
+_______validation_______
+epoch:  47 loss:  1.780 acc:  0.550
+_______training_______
+epoch:  48 loss:  0.914 acc:  0.730
+_______validation_______
+epoch:  48 loss:  1.489 acc:  0.609
+_______training_______
+epoch:  49 loss:  0.903 acc:  0.733
+_______validation_______
+epoch:  49 loss:  1.670 acc:  0.582
+_______training_______
+epoch:  50 loss:  0.898 acc:  0.733
+_______validation_______
+epoch:  50 loss:  1.498 acc:  0.604
+_______training_______
+epoch:  51 loss:  0.891 acc:  0.737
+_______validation_______
+epoch:  51 loss:  1.624 acc:  0.573
+_______training_______
+epoch:  52 loss:  0.888 acc:  0.736
+_______validation_______
+epoch:  52 loss:  1.619 acc:  0.583
+_______training_______
+epoch:  53 loss:  0.899 acc:  0.734
+_______validation_______
+epoch:  53 loss:  1.595 acc:  0.579
+_______training_______
+epoch:  54 loss:  0.886 acc:  0.737
+_______validation_______
+epoch:  54 loss:  1.519 acc:  0.595
+_______training_______
+epoch:  55 loss:  0.877 acc:  0.740
+_______validation_______
+epoch:  55 loss:  1.555 acc:  0.583
+_______training_______
+epoch:  56 loss:  0.878 acc:  0.738
+_______validation_______
+epoch:  56 loss:  1.893 acc:  0.512
+_______training_______
+epoch:  57 loss:  0.880 acc:  0.740
+_______validation_______
+epoch:  57 loss:  1.599 acc:  0.587
+_______training_______
+epoch:  58 loss:  0.867 acc:  0.743
+_______validation_______
+epoch:  58 loss:  1.815 acc:  0.546
+_______training_______
+epoch:  59 loss:  0.874 acc:  0.738
+_______validation_______
+epoch:  59 loss:  1.736 acc:  0.564
+_______training_______
+epoch:  60 loss:  0.856 acc:  0.744
+_______validation_______
+epoch:  60 loss:  1.749 acc:  0.571
+_______training_______
+epoch:  61 loss:  0.400 acc:  0.882
+_______validation_______
+epoch:  61 loss:  0.822 acc:  0.771
+_______training_______
+epoch:  62 loss:  0.257 acc:  0.924
+_______validation_______
+epoch:  62 loss:  0.841 acc:  0.772
+_______training_______
+epoch:  63 loss:  0.199 acc:  0.944
+_______validation_______
+epoch:  63 loss:  0.858 acc:  0.768
+_______training_______
+epoch:  64 loss:  0.160 acc:  0.955
+_______validation_______
+epoch:  64 loss:  0.885 acc:  0.769
+_______training_______
+epoch:  65 loss:  0.137 acc:  0.962
+_______validation_______
+epoch:  65 loss:  0.885 acc:  0.769
+_______training_______
+epoch:  66 loss:  0.119 acc:  0.968
+_______validation_______
+epoch:  66 loss:  0.939 acc:  0.758
+_______training_______
+epoch:  67 loss:  0.111 acc:  0.970
+_______validation_______
+epoch:  67 loss:  0.955 acc:  0.763
+_______training_______
+epoch:  68 loss:  0.103 acc:  0.973
+_______validation_______
+epoch:  68 loss:  0.982 acc:  0.754
+_______training_______
+epoch:  69 loss:  0.104 acc:  0.974
+_______validation_______
+epoch:  69 loss:  0.984 acc:  0.753
+_______training_______
+epoch:  70 loss:  0.105 acc:  0.973
+_______validation_______
+epoch:  70 loss:  0.999 acc:  0.759
+_______training_______
+epoch:  71 loss:  0.104 acc:  0.973
+_______validation_______
+epoch:  71 loss:  1.092 acc:  0.735
+_______training_______
+epoch:  72 loss:  0.101 acc:  0.974
+_______validation_______
+epoch:  72 loss:  1.092 acc:  0.734
+_______training_______
+epoch:  73 loss:  0.123 acc:  0.967
+_______validation_______
+epoch:  73 loss:  1.047 acc:  0.737
+_______training_______
+epoch:  74 loss:  0.129 acc:  0.965
+_______validation_______
+epoch:  74 loss:  1.125 acc:  0.718
+_______training_______
+epoch:  75 loss:  0.130 acc:  0.965
+_______validation_______
+epoch:  75 loss:  1.191 acc:  0.719
+_______training_______
+epoch:  76 loss:  0.127 acc:  0.966
+_______validation_______
+epoch:  76 loss:  1.118 acc:  0.721
+_______training_______
+epoch:  77 loss:  0.144 acc:  0.960
+_______validation_______
+epoch:  77 loss:  1.132 acc:  0.717
+_______training_______
+epoch:  78 loss:  0.140 acc:  0.961
+_______validation_______
+epoch:  78 loss:  1.234 acc:  0.717
+_______training_______
+epoch:  79 loss:  0.150 acc:  0.957
+_______validation_______
+epoch:  79 loss:  1.119 acc:  0.721
+_______training_______
+epoch:  80 loss:  0.150 acc:  0.958
+_______validation_______
+epoch:  80 loss:  1.134 acc:  0.717
+_______training_______
+epoch:  81 loss:  0.151 acc:  0.958
+_______validation_______
+epoch:  81 loss:  1.275 acc:  0.695
+_______training_______
+epoch:  82 loss:  0.165 acc:  0.952
+_______validation_______
+epoch:  82 loss:  1.260 acc:  0.707
+_______training_______
+epoch:  83 loss:  0.168 acc:  0.952
+_______validation_______
+epoch:  83 loss:  1.256 acc:  0.694
+_______training_______
+epoch:  84 loss:  0.164 acc:  0.954
+_______validation_______
+epoch:  84 loss:  1.221 acc:  0.714
+_______training_______
+epoch:  85 loss:  0.145 acc:  0.960
+_______validation_______
+epoch:  85 loss:  1.154 acc:  0.723
+_______training_______
+epoch:  86 loss:  0.149 acc:  0.959
+_______validation_______
+epoch:  86 loss:  1.326 acc:  0.684
+_______training_______
+epoch:  87 loss:  0.160 acc:  0.956
+_______validation_______
+epoch:  87 loss:  1.202 acc:  0.705
+_______training_______
+epoch:  88 loss:  0.155 acc:  0.958
+_______validation_______
+epoch:  88 loss:  1.274 acc:  0.692
+_______training_______
+epoch:  89 loss:  0.156 acc:  0.957
+_______validation_______
+epoch:  89 loss:  1.378 acc:  0.688
+_______training_______
+epoch:  90 loss:  0.166 acc:  0.952
+_______validation_______
+epoch:  90 loss:  1.250 acc:  0.690
+_______training_______
+epoch:  91 loss:  0.143 acc:  0.960
+_______validation_______
+epoch:  91 loss:  1.344 acc:  0.682
+_______training_______
+epoch:  92 loss:  0.145 acc:  0.960
+_______validation_______
+epoch:  92 loss:  1.206 acc:  0.702
+_______training_______
+epoch:  93 loss:  0.141 acc:  0.962
+_______validation_______
+epoch:  93 loss:  1.334 acc:  0.689
+_______training_______
+epoch:  94 loss:  0.148 acc:  0.959
+_______validation_______
+epoch:  94 loss:  1.247 acc:  0.699
+_______training_______
+epoch:  95 loss:  0.156 acc:  0.956
+_______validation_______
+epoch:  95 loss:  1.244 acc:  0.704
+_______training_______
+epoch:  96 loss:  0.146 acc:  0.959
+_______validation_______
+epoch:  96 loss:  1.266 acc:  0.705
+_______training_______
+epoch:  97 loss:  0.144 acc:  0.960
+_______validation_______
+epoch:  97 loss:  1.329 acc:  0.691
+_______training_______
+epoch:  98 loss:  0.137 acc:  0.962
+_______validation_______
+epoch:  98 loss:  1.218 acc:  0.715
+_______training_______
+epoch:  99 loss:  0.119 acc:  0.968
+_______validation_______
+epoch:  99 loss:  1.225 acc:  0.714
+_______training_______
+epoch:  100 loss:  0.130 acc:  0.965
+_______validation_______
+epoch:  100 loss:  1.292 acc:  0.692
+_______training_______
+epoch:  101 loss:  0.134 acc:  0.964
+_______validation_______
+epoch:  101 loss:  1.381 acc:  0.684
+_______training_______
+epoch:  102 loss:  0.155 acc:  0.957
+_______validation_______
+epoch:  102 loss:  1.285 acc:  0.697
+_______training_______
+epoch:  103 loss:  0.142 acc:  0.961
+_______validation_______
+epoch:  103 loss:  1.362 acc:  0.685
+_______training_______
+epoch:  104 loss:  0.142 acc:  0.962
+_______validation_______
+epoch:  104 loss:  1.265 acc:  0.696
+_______training_______
+epoch:  105 loss:  0.146 acc:  0.959
+_______validation_______
+epoch:  105 loss:  1.291 acc:  0.696
+_______training_______
+epoch:  106 loss:  0.149 acc:  0.959
+_______validation_______
+epoch:  106 loss:  1.139 acc:  0.721
+_______training_______
+epoch:  107 loss:  0.123 acc:  0.967
+_______validation_______
+epoch:  107 loss:  1.185 acc:  0.712
+_______training_______
+epoch:  108 loss:  0.141 acc:  0.961
+_______validation_______
+epoch:  108 loss:  1.159 acc:  0.718
+_______training_______
+epoch:  109 loss:  0.121 acc:  0.968
+_______validation_______
+epoch:  109 loss:  1.282 acc:  0.698
+_______training_______
+epoch:  110 loss:  0.132 acc:  0.964
+_______validation_______
+epoch:  110 loss:  1.369 acc:  0.689
+_______training_______
+epoch:  111 loss:  0.137 acc:  0.963
+_______validation_______
+epoch:  111 loss:  1.255 acc:  0.694
+_______training_______
+epoch:  112 loss:  0.143 acc:  0.962
+_______validation_______
+epoch:  112 loss:  1.295 acc:  0.690
+_______training_______
+epoch:  113 loss:  0.143 acc:  0.960
+_______validation_______
+epoch:  113 loss:  1.361 acc:  0.690
+_______training_______
+epoch:  114 loss:  0.121 acc:  0.967
+_______validation_______
+epoch:  114 loss:  1.387 acc:  0.680
+_______training_______
+epoch:  115 loss:  0.140 acc:  0.962
+_______validation_______
+epoch:  115 loss:  1.356 acc:  0.689
+_______training_______
+epoch:  116 loss:  0.142 acc:  0.960
+_______validation_______
+epoch:  116 loss:  1.256 acc:  0.703
+_______training_______
+epoch:  117 loss:  0.133 acc:  0.964
+_______validation_______
+epoch:  117 loss:  1.322 acc:  0.689
+_______training_______
+epoch:  118 loss:  0.129 acc:  0.965
+_______validation_______
+epoch:  118 loss:  1.197 acc:  0.721
+_______training_______
+epoch:  119 loss:  0.122 acc:  0.967
+_______validation_______
+epoch:  119 loss:  1.139 acc:  0.726
+_______training_______
+epoch:  120 loss:  0.132 acc:  0.964
+_______validation_______
+epoch:  120 loss:  1.275 acc:  0.700
+_______training_______
+epoch:  121 loss:  0.038 acc:  0.993
+_______validation_______
+epoch:  121 loss:  0.868 acc:  0.784
+_______training_______
+epoch:  122 loss:  0.015 acc:  0.998
+_______validation_______
+epoch:  122 loss:  0.854 acc:  0.785
+_______training_______
+epoch:  123 loss:  0.011 acc:  0.999
+_______validation_______
+epoch:  123 loss:  0.845 acc:  0.789
+_______training_______
+epoch:  124 loss:  0.009 acc:  0.999
+_______validation_______
+epoch:  124 loss:  0.840 acc:  0.791
+_______training_______
+epoch:  125 loss:  0.008 acc:  0.999
+_______validation_______
+epoch:  125 loss:  0.840 acc:  0.794
+_______training_______
+epoch:  126 loss:  0.008 acc:  0.999
+_______validation_______
+epoch:  126 loss:  0.828 acc:  0.792
+_______training_______
+epoch:  127 loss:  0.007 acc:  0.999
+_______validation_______
+epoch:  127 loss:  0.829 acc:  0.796
+_______training_______
+epoch:  128 loss:  0.007 acc:  0.999
+_______validation_______
+epoch:  128 loss:  0.826 acc:  0.796
+_______training_______
+epoch:  129 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  129 loss:  0.821 acc:  0.796
+_______training_______
+epoch:  130 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  130 loss:  0.817 acc:  0.798
+_______training_______
+epoch:  131 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  131 loss:  0.823 acc:  0.798
+_______training_______
+epoch:  132 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  132 loss:  0.814 acc:  0.799
+_______training_______
+epoch:  133 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  133 loss:  0.812 acc:  0.803
+_______training_______
+epoch:  134 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  134 loss:  0.808 acc:  0.798
+_______training_______
+epoch:  135 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  135 loss:  0.803 acc:  0.801
+_______training_______
+epoch:  136 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  136 loss:  0.801 acc:  0.802
+_______training_______
+epoch:  137 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  137 loss:  0.803 acc:  0.801
+_______training_______
+epoch:  138 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  138 loss:  0.801 acc:  0.799
+_______training_______
+epoch:  139 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  139 loss:  0.801 acc:  0.801
+_______training_______
+epoch:  140 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  140 loss:  0.802 acc:  0.801
+_______training_______
+epoch:  141 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  141 loss:  0.793 acc:  0.803
+_______training_______
+epoch:  142 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  142 loss:  0.794 acc:  0.802
+_______training_______
+epoch:  143 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  143 loss:  0.798 acc:  0.802
+_______training_______
+epoch:  144 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  144 loss:  0.788 acc:  0.805
+_______training_______
+epoch:  145 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  145 loss:  0.791 acc:  0.804
+_______training_______
+epoch:  146 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  146 loss:  0.790 acc:  0.801
+_______training_______
+epoch:  147 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  147 loss:  0.788 acc:  0.802
+_______training_______
+epoch:  148 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  148 loss:  0.793 acc:  0.799
+_______training_______
+epoch:  149 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  149 loss:  0.785 acc:  0.806
+_______training_______
+epoch:  150 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  150 loss:  0.790 acc:  0.804
+_______training_______
+epoch:  151 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  151 loss:  0.788 acc:  0.805
+_______training_______
+epoch:  152 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  152 loss:  0.790 acc:  0.804
+_______training_______
+epoch:  153 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  153 loss:  0.781 acc:  0.805
+_______training_______
+epoch:  154 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  154 loss:  0.791 acc:  0.803
+_______training_______
+epoch:  155 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  155 loss:  0.785 acc:  0.808
+_______training_______
+epoch:  156 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  156 loss:  0.784 acc:  0.810
+_______training_______
+epoch:  157 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  157 loss:  0.782 acc:  0.805
+_______training_______
+epoch:  158 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  158 loss:  0.788 acc:  0.806
+_______training_______
+epoch:  159 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  159 loss:  0.782 acc:  0.806
+_______training_______
+epoch:  160 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  160 loss:  0.784 acc:  0.805
+_______training_______
+epoch:  161 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  161 loss:  0.786 acc:  0.806
+_______training_______
+epoch:  162 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  162 loss:  0.782 acc:  0.807
+_______training_______
+epoch:  163 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  163 loss:  0.786 acc:  0.805
+_______training_______
+epoch:  164 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  164 loss:  0.792 acc:  0.803
+_______training_______
+epoch:  165 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  165 loss:  0.789 acc:  0.803
+_______training_______
+epoch:  166 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  166 loss:  0.794 acc:  0.805
+_______training_______
+epoch:  167 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  167 loss:  0.790 acc:  0.806
+_______training_______
+epoch:  168 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  168 loss:  0.788 acc:  0.804
+_______training_______
+epoch:  169 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  169 loss:  0.794 acc:  0.801
+_______training_______
+epoch:  170 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  170 loss:  0.797 acc:  0.801
+_______training_______
+epoch:  171 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  171 loss:  0.797 acc:  0.804
+_______training_______
+epoch:  172 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  172 loss:  0.800 acc:  0.804
+_______training_______
+epoch:  173 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  173 loss:  0.796 acc:  0.803
+_______training_______
+epoch:  174 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  174 loss:  0.802 acc:  0.805
+_______training_______
+epoch:  175 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  175 loss:  0.800 acc:  0.803
+_______training_______
+epoch:  176 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  176 loss:  0.798 acc:  0.803
+_______training_______
+epoch:  177 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  177 loss:  0.800 acc:  0.802
+_______training_______
+epoch:  178 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  178 loss:  0.804 acc:  0.805
+_______training_______
+epoch:  179 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  179 loss:  0.801 acc:  0.801
+_______training_______
+epoch:  180 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  180 loss:  0.807 acc:  0.801
+_______training_______
+epoch:  181 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  181 loss:  0.807 acc:  0.805
+_______training_______
+epoch:  182 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  182 loss:  0.796 acc:  0.808
+_______training_______
+epoch:  183 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  183 loss:  0.805 acc:  0.805
+_______training_______
+epoch:  184 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  184 loss:  0.800 acc:  0.805
+_______training_______
+epoch:  185 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  185 loss:  0.799 acc:  0.807
+_______training_______
+epoch:  186 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  186 loss:  0.803 acc:  0.806
+_______training_______
+epoch:  187 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  187 loss:  0.800 acc:  0.803
+_______training_______
+epoch:  188 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  188 loss:  0.800 acc:  0.806
+_______training_______
+epoch:  189 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  189 loss:  0.800 acc:  0.804
+_______training_______
+epoch:  190 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  190 loss:  0.794 acc:  0.807
+_______training_______
+epoch:  191 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  191 loss:  0.798 acc:  0.805
+_______training_______
+epoch:  192 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  192 loss:  0.797 acc:  0.806
+_______training_______
+epoch:  193 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  193 loss:  0.800 acc:  0.801
+_______training_______
+epoch:  194 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  194 loss:  0.800 acc:  0.805
+_______training_______
+epoch:  195 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  195 loss:  0.801 acc:  0.807
+_______training_______
+epoch:  196 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  196 loss:  0.799 acc:  0.806
+_______training_______
+epoch:  197 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  197 loss:  0.798 acc:  0.805
+_______training_______
+epoch:  198 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  198 loss:  0.800 acc:  0.805
+_______training_______
+epoch:  199 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  199 loss:  0.798 acc:  0.805
+_______training_______
+epoch:  200 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  200 loss:  0.798 acc:  0.806
+Training finish. The optimal validation accuracy is:  0.810
+test_loss:  0.802 test_acc:  0.796
+_______training_______
+epoch:  1 loss:  3.770 acc:  0.119
+_______validation_______
+epoch:  1 loss:  3.620 acc:  0.155
+_______training_______
+epoch:  2 loss:  3.017 acc:  0.238
+_______validation_______
+epoch:  2 loss:  3.256 acc:  0.223
+_______training_______
+epoch:  3 loss:  2.603 acc:  0.319
+_______validation_______
+epoch:  3 loss:  2.752 acc:  0.295
+_______training_______
+epoch:  4 loss:  2.321 acc:  0.377
+_______validation_______
+epoch:  4 loss:  2.285 acc:  0.387
+_______training_______
+epoch:  5 loss:  2.109 acc:  0.425
+_______validation_______
+epoch:  5 loss:  2.185 acc:  0.410
+_______training_______
+epoch:  6 loss:  1.939 acc:  0.465
+_______validation_______
+epoch:  6 loss:  2.076 acc:  0.434
+_______training_______
+epoch:  7 loss:  1.809 acc:  0.493
+_______validation_______
+epoch:  7 loss:  2.131 acc:  0.431
+_______training_______
+epoch:  8 loss:  1.697 acc:  0.522
+_______validation_______
+epoch:  8 loss:  1.886 acc:  0.476
+_______training_______
+epoch:  9 loss:  1.613 acc:  0.545
+_______validation_______
+epoch:  9 loss:  1.915 acc:  0.473
+_______training_______
+epoch:  10 loss:  1.546 acc:  0.560
+_______validation_______
+epoch:  10 loss:  1.821 acc:  0.506
+_______training_______
+epoch:  11 loss:  1.479 acc:  0.578
+_______validation_______
+epoch:  11 loss:  2.032 acc:  0.460
+_______training_______
+epoch:  12 loss:  1.424 acc:  0.594
+_______validation_______
+epoch:  12 loss:  1.763 acc:  0.517
+_______training_______
+epoch:  13 loss:  1.386 acc:  0.604
+_______validation_______
+epoch:  13 loss:  1.766 acc:  0.520
+_______training_______
+epoch:  14 loss:  1.334 acc:  0.617
+_______validation_______
+epoch:  14 loss:  1.723 acc:  0.533
+_______training_______
+epoch:  15 loss:  1.309 acc:  0.622
+_______validation_______
+epoch:  15 loss:  1.719 acc:  0.532
+_______training_______
+epoch:  16 loss:  1.269 acc:  0.634
+_______validation_______
+epoch:  16 loss:  2.497 acc:  0.420
+_______training_______
+epoch:  17 loss:  1.245 acc:  0.639
+_______validation_______
+epoch:  17 loss:  1.754 acc:  0.548
+_______training_______
+epoch:  18 loss:  1.216 acc:  0.649
+_______validation_______
+epoch:  18 loss:  1.660 acc:  0.551
+_______training_______
+epoch:  19 loss:  1.190 acc:  0.652
+_______validation_______
+epoch:  19 loss:  1.899 acc:  0.508
+_______training_______
+epoch:  20 loss:  1.163 acc:  0.661
+_______validation_______
+epoch:  20 loss:  1.542 acc:  0.587
+_______training_______
+epoch:  21 loss:  1.143 acc:  0.666
+_______validation_______
+epoch:  21 loss:  2.058 acc:  0.485
+_______training_______
+epoch:  22 loss:  1.131 acc:  0.668
+_______validation_______
+epoch:  22 loss:  1.670 acc:  0.544
+_______training_______
+epoch:  23 loss:  1.110 acc:  0.677
+_______validation_______
+epoch:  23 loss:  1.668 acc:  0.548
+_______training_______
+epoch:  24 loss:  1.098 acc:  0.679
+_______validation_______
+epoch:  24 loss:  1.779 acc:  0.535
+_______training_______
+epoch:  25 loss:  1.064 acc:  0.689
+_______validation_______
+epoch:  25 loss:  1.593 acc:  0.568
+_______training_______
+epoch:  26 loss:  1.062 acc:  0.690
+_______validation_______
+epoch:  26 loss:  1.728 acc:  0.549
+_______training_______
+epoch:  27 loss:  1.052 acc:  0.692
+_______validation_______
+epoch:  27 loss:  1.634 acc:  0.567
+_______training_______
+epoch:  28 loss:  1.052 acc:  0.692
+_______validation_______
+epoch:  28 loss:  1.805 acc:  0.535
+_______training_______
+epoch:  29 loss:  1.024 acc:  0.701
+_______validation_______
+epoch:  29 loss:  1.717 acc:  0.556
+_______training_______
+epoch:  30 loss:  1.012 acc:  0.704
+_______validation_______
+epoch:  30 loss:  1.877 acc:  0.536
+_______training_______
+epoch:  31 loss:  1.014 acc:  0.703
+_______validation_______
+epoch:  31 loss:  1.647 acc:  0.576
+_______training_______
+epoch:  32 loss:  1.009 acc:  0.705
+_______validation_______
+epoch:  32 loss:  1.468 acc:  0.593
+_______training_______
+epoch:  33 loss:  0.996 acc:  0.707
+_______validation_______
+epoch:  33 loss:  1.595 acc:  0.569
+_______training_______
+epoch:  34 loss:  0.992 acc:  0.708
+_______validation_______
+epoch:  34 loss:  1.713 acc:  0.548
+_______training_______
+epoch:  35 loss:  0.985 acc:  0.713
+_______validation_______
+epoch:  35 loss:  1.635 acc:  0.578
+_______training_______
+epoch:  36 loss:  0.971 acc:  0.713
+_______validation_______
+epoch:  36 loss:  1.722 acc:  0.549
+_______training_______
+epoch:  37 loss:  0.970 acc:  0.714
+_______validation_______
+epoch:  37 loss:  1.525 acc:  0.591
+_______training_______
+epoch:  38 loss:  0.951 acc:  0.719
+_______validation_______
+epoch:  38 loss:  1.632 acc:  0.574
+_______training_______
+epoch:  39 loss:  0.951 acc:  0.719
+_______validation_______
+epoch:  39 loss:  1.478 acc:  0.610
+_______training_______
+epoch:  40 loss:  0.946 acc:  0.719
+_______validation_______
+epoch:  40 loss:  1.718 acc:  0.564
+_______training_______
+epoch:  41 loss:  0.948 acc:  0.720
+_______validation_______
+epoch:  41 loss:  1.607 acc:  0.578
+_______training_______
+epoch:  42 loss:  0.941 acc:  0.723
+_______validation_______
+epoch:  42 loss:  1.556 acc:  0.593
+_______training_______
+epoch:  43 loss:  0.932 acc:  0.725
+_______validation_______
+epoch:  43 loss:  1.575 acc:  0.581
+_______training_______
+epoch:  44 loss:  0.924 acc:  0.728
+_______validation_______
+epoch:  44 loss:  1.590 acc:  0.565
+_______training_______
+epoch:  45 loss:  0.916 acc:  0.727
+_______validation_______
+epoch:  45 loss:  1.567 acc:  0.590
+_______training_______
+epoch:  46 loss:  0.913 acc:  0.732
+_______validation_______
+epoch:  46 loss:  1.609 acc:  0.579
+_______training_______
+epoch:  47 loss:  0.916 acc:  0.730
+_______validation_______
+epoch:  47 loss:  1.566 acc:  0.591
+_______training_______
+epoch:  48 loss:  0.914 acc:  0.730
+_______validation_______
+epoch:  48 loss:  1.508 acc:  0.598
+_______training_______
+epoch:  49 loss:  0.898 acc:  0.732
+_______validation_______
+epoch:  49 loss:  1.584 acc:  0.582
+_______training_______
+epoch:  50 loss:  0.897 acc:  0.735
+_______validation_______
+epoch:  50 loss:  1.572 acc:  0.596
+_______training_______
+epoch:  51 loss:  0.902 acc:  0.731
+_______validation_______
+epoch:  51 loss:  1.585 acc:  0.587
+_______training_______
+epoch:  52 loss:  0.902 acc:  0.733
+_______validation_______
+epoch:  52 loss:  1.679 acc:  0.563
+_______training_______
+epoch:  53 loss:  0.886 acc:  0.736
+_______validation_______
+epoch:  53 loss:  2.055 acc:  0.518
+_______training_______
+epoch:  54 loss:  0.897 acc:  0.734
+_______validation_______
+epoch:  54 loss:  1.737 acc:  0.556
+_______training_______
+epoch:  55 loss:  0.874 acc:  0.743
+_______validation_______
+epoch:  55 loss:  1.637 acc:  0.565
+_______training_______
+epoch:  56 loss:  0.893 acc:  0.733
+_______validation_______
+epoch:  56 loss:  1.568 acc:  0.587
+_______training_______
+epoch:  57 loss:  0.882 acc:  0.739
+_______validation_______
+epoch:  57 loss:  1.649 acc:  0.565
+_______training_______
+epoch:  58 loss:  0.870 acc:  0.742
+_______validation_______
+epoch:  58 loss:  1.582 acc:  0.588
+_______training_______
+epoch:  59 loss:  0.869 acc:  0.745
+_______validation_______
+epoch:  59 loss:  1.573 acc:  0.595
+_______training_______
+epoch:  60 loss:  0.872 acc:  0.742
+_______validation_______
+epoch:  60 loss:  1.623 acc:  0.582
+_______training_______
+epoch:  61 loss:  0.397 acc:  0.882
+_______validation_______
+epoch:  61 loss:  0.820 acc:  0.775
+_______training_______
+epoch:  62 loss:  0.260 acc:  0.923
+_______validation_______
+epoch:  62 loss:  0.840 acc:  0.770
+_______training_______
+epoch:  63 loss:  0.204 acc:  0.942
+_______validation_______
+epoch:  63 loss:  0.878 acc:  0.768
+_______training_______
+epoch:  64 loss:  0.166 acc:  0.953
+_______validation_______
+epoch:  64 loss:  0.847 acc:  0.778
+_______training_______
+epoch:  65 loss:  0.137 acc:  0.963
+_______validation_______
+epoch:  65 loss:  0.880 acc:  0.769
+_______training_______
+epoch:  66 loss:  0.122 acc:  0.967
+_______validation_______
+epoch:  66 loss:  0.903 acc:  0.769
+_______training_______
+epoch:  67 loss:  0.110 acc:  0.971
+_______validation_______
+epoch:  67 loss:  0.948 acc:  0.762
+_______training_______
+epoch:  68 loss:  0.101 acc:  0.975
+_______validation_______
+epoch:  68 loss:  0.949 acc:  0.760
+_______training_______
+epoch:  69 loss:  0.097 acc:  0.975
+_______validation_______
+epoch:  69 loss:  0.981 acc:  0.758
+_______training_______
+epoch:  70 loss:  0.099 acc:  0.975
+_______validation_______
+epoch:  70 loss:  1.024 acc:  0.749
+_______training_______
+epoch:  71 loss:  0.103 acc:  0.974
+_______validation_______
+epoch:  71 loss:  1.000 acc:  0.751
+_______training_______
+epoch:  72 loss:  0.108 acc:  0.972
+_______validation_______
+epoch:  72 loss:  1.056 acc:  0.741
+_______training_______
+epoch:  73 loss:  0.124 acc:  0.966
+_______validation_______
+epoch:  73 loss:  1.070 acc:  0.728
+_______training_______
+epoch:  74 loss:  0.117 acc:  0.969
+_______validation_______
+epoch:  74 loss:  1.101 acc:  0.730
+_______training_______
+epoch:  75 loss:  0.127 acc:  0.965
+_______validation_______
+epoch:  75 loss:  1.133 acc:  0.729
+_______training_______
+epoch:  76 loss:  0.136 acc:  0.964
+_______validation_______
+epoch:  76 loss:  1.112 acc:  0.715
+_______training_______
+epoch:  77 loss:  0.142 acc:  0.961
+_______validation_______
+epoch:  77 loss:  1.156 acc:  0.710
+_______training_______
+epoch:  78 loss:  0.150 acc:  0.960
+_______validation_______
+epoch:  78 loss:  1.072 acc:  0.732
+_______training_______
+epoch:  79 loss:  0.150 acc:  0.959
+_______validation_______
+epoch:  79 loss:  1.166 acc:  0.715
+_______training_______
+epoch:  80 loss:  0.162 acc:  0.955
+_______validation_______
+epoch:  80 loss:  1.185 acc:  0.716
+_______training_______
+epoch:  81 loss:  0.159 acc:  0.955
+_______validation_______
+epoch:  81 loss:  1.187 acc:  0.711
+_______training_______
+epoch:  82 loss:  0.152 acc:  0.957
+_______validation_______
+epoch:  82 loss:  1.188 acc:  0.702
+_______training_______
+epoch:  83 loss:  0.149 acc:  0.958
+_______validation_______
+epoch:  83 loss:  1.170 acc:  0.712
+_______training_______
+epoch:  84 loss:  0.150 acc:  0.959
+_______validation_______
+epoch:  84 loss:  1.195 acc:  0.708
+_______training_______
+epoch:  85 loss:  0.159 acc:  0.955
+_______validation_______
+epoch:  85 loss:  1.213 acc:  0.714
+_______training_______
+epoch:  86 loss:  0.149 acc:  0.958
+_______validation_______
+epoch:  86 loss:  1.137 acc:  0.721
+_______training_______
+epoch:  87 loss:  0.152 acc:  0.958
+_______validation_______
+epoch:  87 loss:  1.319 acc:  0.693
+_______training_______
+epoch:  88 loss:  0.158 acc:  0.955
+_______validation_______
+epoch:  88 loss:  1.206 acc:  0.709
+_______training_______
+epoch:  89 loss:  0.156 acc:  0.955
+_______validation_______
+epoch:  89 loss:  1.176 acc:  0.707
+_______training_______
+epoch:  90 loss:  0.153 acc:  0.957
+_______validation_______
+epoch:  90 loss:  1.261 acc:  0.701
+_______training_______
+epoch:  91 loss:  0.140 acc:  0.962
+_______validation_______
+epoch:  91 loss:  1.273 acc:  0.693
+_______training_______
+epoch:  92 loss:  0.148 acc:  0.959
+_______validation_______
+epoch:  92 loss:  1.186 acc:  0.713
+_______training_______
+epoch:  93 loss:  0.140 acc:  0.962
+_______validation_______
+epoch:  93 loss:  1.218 acc:  0.707
+_______training_______
+epoch:  94 loss:  0.156 acc:  0.955
+_______validation_______
+epoch:  94 loss:  1.251 acc:  0.700
+_______training_______
+epoch:  95 loss:  0.147 acc:  0.960
+_______validation_______
+epoch:  95 loss:  1.181 acc:  0.720
+_______training_______
+epoch:  96 loss:  0.138 acc:  0.962
+_______validation_______
+epoch:  96 loss:  1.291 acc:  0.695
+_______training_______
+epoch:  97 loss:  0.143 acc:  0.961
+_______validation_______
+epoch:  97 loss:  1.228 acc:  0.706
+_______training_______
+epoch:  98 loss:  0.156 acc:  0.956
+_______validation_______
+epoch:  98 loss:  1.316 acc:  0.687
+_______training_______
+epoch:  99 loss:  0.149 acc:  0.959
+_______validation_______
+epoch:  99 loss:  1.247 acc:  0.700
+_______training_______
+epoch:  100 loss:  0.144 acc:  0.959
+_______validation_______
+epoch:  100 loss:  1.326 acc:  0.680
+_______training_______
+epoch:  101 loss:  0.150 acc:  0.959
+_______validation_______
+epoch:  101 loss:  1.375 acc:  0.675
+_______training_______
+epoch:  102 loss:  0.136 acc:  0.963
+_______validation_______
+epoch:  102 loss:  1.184 acc:  0.709
+_______training_______
+epoch:  103 loss:  0.130 acc:  0.965
+_______validation_______
+epoch:  103 loss:  1.281 acc:  0.700
+_______training_______
+epoch:  104 loss:  0.133 acc:  0.963
+_______validation_______
+epoch:  104 loss:  1.268 acc:  0.691
+_______training_______
+epoch:  105 loss:  0.135 acc:  0.963
+_______validation_______
+epoch:  105 loss:  1.160 acc:  0.723
+_______training_______
+epoch:  106 loss:  0.142 acc:  0.962
+_______validation_______
+epoch:  106 loss:  1.297 acc:  0.693
+_______training_______
+epoch:  107 loss:  0.133 acc:  0.964
+_______validation_______
+epoch:  107 loss:  1.301 acc:  0.700
+_______training_______
+epoch:  108 loss:  0.143 acc:  0.961
+_______validation_______
+epoch:  108 loss:  1.420 acc:  0.677
+_______training_______
+epoch:  109 loss:  0.139 acc:  0.962
+_______validation_______
+epoch:  109 loss:  1.273 acc:  0.691
+_______training_______
+epoch:  110 loss:  0.135 acc:  0.963
+_______validation_______
+epoch:  110 loss:  1.235 acc:  0.706
+_______training_______
+epoch:  111 loss:  0.143 acc:  0.961
+_______validation_______
+epoch:  111 loss:  1.191 acc:  0.710
+_______training_______
+epoch:  112 loss:  0.135 acc:  0.964
+_______validation_______
+epoch:  112 loss:  1.257 acc:  0.705
+_______training_______
+epoch:  113 loss:  0.123 acc:  0.967
+_______validation_______
+epoch:  113 loss:  1.256 acc:  0.708
+_______training_______
+epoch:  114 loss:  0.139 acc:  0.962
+_______validation_______
+epoch:  114 loss:  1.244 acc:  0.715
+_______training_______
+epoch:  115 loss:  0.143 acc:  0.960
+_______validation_______
+epoch:  115 loss:  1.256 acc:  0.710
+_______training_______
+epoch:  116 loss:  0.127 acc:  0.965
+_______validation_______
+epoch:  116 loss:  1.289 acc:  0.696
+_______training_______
+epoch:  117 loss:  0.123 acc:  0.967
+_______validation_______
+epoch:  117 loss:  1.238 acc:  0.706
+_______training_______
+epoch:  118 loss:  0.125 acc:  0.966
+_______validation_______
+epoch:  118 loss:  1.305 acc:  0.693
+_______training_______
+epoch:  119 loss:  0.134 acc:  0.964
+_______validation_______
+epoch:  119 loss:  1.311 acc:  0.701
+_______training_______
+epoch:  120 loss:  0.130 acc:  0.964
+_______validation_______
+epoch:  120 loss:  1.292 acc:  0.697
+_______training_______
+epoch:  121 loss:  0.039 acc:  0.993
+_______validation_______
+epoch:  121 loss:  0.878 acc:  0.786
+_______training_______
+epoch:  122 loss:  0.015 acc:  0.998
+_______validation_______
+epoch:  122 loss:  0.864 acc:  0.792
+_______training_______
+epoch:  123 loss:  0.011 acc:  0.999
+_______validation_______
+epoch:  123 loss:  0.857 acc:  0.795
+_______training_______
+epoch:  124 loss:  0.009 acc:  0.999
+_______validation_______
+epoch:  124 loss:  0.850 acc:  0.796
+_______training_______
+epoch:  125 loss:  0.008 acc:  0.999
+_______validation_______
+epoch:  125 loss:  0.852 acc:  0.796
+_______training_______
+epoch:  126 loss:  0.008 acc:  0.999
+_______validation_______
+epoch:  126 loss:  0.850 acc:  0.801
+_______training_______
+epoch:  127 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  127 loss:  0.840 acc:  0.800
+_______training_______
+epoch:  128 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  128 loss:  0.838 acc:  0.804
+_______training_______
+epoch:  129 loss:  0.007 acc:  0.999
+_______validation_______
+epoch:  129 loss:  0.827 acc:  0.803
+_______training_______
+epoch:  130 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  130 loss:  0.827 acc:  0.803
+_______training_______
+epoch:  131 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  131 loss:  0.828 acc:  0.801
+_______training_______
+epoch:  132 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  132 loss:  0.829 acc:  0.806
+_______training_______
+epoch:  133 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  133 loss:  0.820 acc:  0.804
+_______training_______
+epoch:  134 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  134 loss:  0.819 acc:  0.802
+_______training_______
+epoch:  135 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  135 loss:  0.823 acc:  0.803
+_______training_______
+epoch:  136 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  136 loss:  0.817 acc:  0.805
+_______training_______
+epoch:  137 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  137 loss:  0.815 acc:  0.803
+_______training_______
+epoch:  138 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  138 loss:  0.815 acc:  0.806
+_______training_______
+epoch:  139 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  139 loss:  0.813 acc:  0.804
+_______training_______
+epoch:  140 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  140 loss:  0.810 acc:  0.802
+_______training_______
+epoch:  141 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  141 loss:  0.804 acc:  0.804
+_______training_______
+epoch:  142 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  142 loss:  0.805 acc:  0.803
+_______training_______
+epoch:  143 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  143 loss:  0.809 acc:  0.805
+_______training_______
+epoch:  144 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  144 loss:  0.798 acc:  0.804
+_______training_______
+epoch:  145 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  145 loss:  0.801 acc:  0.805
+_______training_______
+epoch:  146 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  146 loss:  0.799 acc:  0.805
+_______training_______
+epoch:  147 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  147 loss:  0.798 acc:  0.807
+_______training_______
+epoch:  148 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  148 loss:  0.803 acc:  0.802
+_______training_______
+epoch:  149 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  149 loss:  0.802 acc:  0.801
+_______training_______
+epoch:  150 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  150 loss:  0.797 acc:  0.802
+_______training_______
+epoch:  151 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  151 loss:  0.798 acc:  0.804
+_______training_______
+epoch:  152 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  152 loss:  0.801 acc:  0.804
+_______training_______
+epoch:  153 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  153 loss:  0.790 acc:  0.808
+_______training_______
+epoch:  154 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  154 loss:  0.795 acc:  0.805
+_______training_______
+epoch:  155 loss:  0.006 acc:  1.000
+_______validation_______
+epoch:  155 loss:  0.795 acc:  0.803
+_______training_______
+epoch:  156 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  156 loss:  0.792 acc:  0.807
+_______training_______
+epoch:  157 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  157 loss:  0.795 acc:  0.804
+_______training_______
+epoch:  158 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  158 loss:  0.792 acc:  0.810
+_______training_______
+epoch:  159 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  159 loss:  0.791 acc:  0.805
+_______training_______
+epoch:  160 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  160 loss:  0.794 acc:  0.808
+_______training_______
+epoch:  161 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  161 loss:  0.788 acc:  0.808
+_______training_______
+epoch:  162 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  162 loss:  0.793 acc:  0.807
+_______training_______
+epoch:  163 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  163 loss:  0.795 acc:  0.806
+_______training_______
+epoch:  164 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  164 loss:  0.798 acc:  0.806
+_______training_______
+epoch:  165 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  165 loss:  0.796 acc:  0.806
+_______training_______
+epoch:  166 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  166 loss:  0.791 acc:  0.808
+_______training_______
+epoch:  167 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  167 loss:  0.795 acc:  0.806
+_______training_______
+epoch:  168 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  168 loss:  0.794 acc:  0.809
+_______training_______
+epoch:  169 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  169 loss:  0.793 acc:  0.806
+_______training_______
+epoch:  170 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  170 loss:  0.796 acc:  0.807
+_______training_______
+epoch:  171 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  171 loss:  0.806 acc:  0.805
+_______training_______
+epoch:  172 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  172 loss:  0.802 acc:  0.804
+_______training_______
+epoch:  173 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  173 loss:  0.798 acc:  0.806
+_______training_______
+epoch:  174 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  174 loss:  0.798 acc:  0.803
+_______training_______
+epoch:  175 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  175 loss:  0.802 acc:  0.803
+_______training_______
+epoch:  176 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  176 loss:  0.800 acc:  0.806
+_______training_______
+epoch:  177 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  177 loss:  0.804 acc:  0.803
+_______training_______
+epoch:  178 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  178 loss:  0.803 acc:  0.806
+_______training_______
+epoch:  179 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  179 loss:  0.806 acc:  0.808
+_______training_______
+epoch:  180 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  180 loss:  0.803 acc:  0.808
+_______training_______
+epoch:  181 loss:  0.008 acc:  1.000
+_______validation_______
+epoch:  181 loss:  0.805 acc:  0.806
+_______training_______
+epoch:  182 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  182 loss:  0.808 acc:  0.807
+_______training_______
+epoch:  183 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  183 loss:  0.804 acc:  0.808
+_______training_______
+epoch:  184 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  184 loss:  0.799 acc:  0.808
+_______training_______
+epoch:  185 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  185 loss:  0.804 acc:  0.806
+_______training_______
+epoch:  186 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  186 loss:  0.801 acc:  0.807
+_______training_______
+epoch:  187 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  187 loss:  0.801 acc:  0.808
+_______training_______
+epoch:  188 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  188 loss:  0.803 acc:  0.809
+_______training_______
+epoch:  189 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  189 loss:  0.805 acc:  0.809
+_______training_______
+epoch:  190 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  190 loss:  0.801 acc:  0.808
+_______training_______
+epoch:  191 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  191 loss:  0.805 acc:  0.806
+_______training_______
+epoch:  192 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  192 loss:  0.804 acc:  0.809
+_______training_______
+epoch:  193 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  193 loss:  0.806 acc:  0.805
+_______training_______
+epoch:  194 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  194 loss:  0.806 acc:  0.806
+_______training_______
+epoch:  195 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  195 loss:  0.802 acc:  0.809
+_______training_______
+epoch:  196 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  196 loss:  0.803 acc:  0.807
+_______training_______
+epoch:  197 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  197 loss:  0.803 acc:  0.807
+_______training_______
+epoch:  198 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  198 loss:  0.803 acc:  0.807
+_______training_______
+epoch:  199 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  199 loss:  0.807 acc:  0.804
+_______training_______
+epoch:  200 loss:  0.007 acc:  1.000
+_______validation_______
+epoch:  200 loss:  0.803 acc:  0.807
+Training finish. The optimal validation accuracy is:  0.810
+test_loss:  0.802 test_acc:  0.800
+mean and std of test loss are:  0.803 0.011
+mean and std of test acc are:  0.800 0.003
+mean and std of time used are:  36465.250 8929.827
