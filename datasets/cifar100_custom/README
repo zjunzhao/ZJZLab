@@ -1,0 +1,1 @@
+Download CIFAR-100 data from https://www.cs.toronto.edu/~kriz/cifar.html, decompress to this folder, and then run process.py.
